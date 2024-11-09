@@ -1,0 +1,87 @@
+@font-face {
+    font-family: "Atkinson";
+    src: url("static/assets/fonts/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2");
+
+    /* font-family: "InterVF";
+    src: url("static/assets/fonts/InterVF.ttf") format("ttf"); */
+}
+
+:root {
+    --primary-300: rgb(197, 248, 243);
+    --primary-700: rgb(42, 69, 78);
+
+    --yellow-highlight: yellow;
+    --orange-highlight: orangered;
+    --valid-color: rgb(58, 207, 58);
+    --invalid-color: rgb(225, 29, 29);
+
+    --neutral-100: rgb(255, 255, 255);
+    --neutral-200: rgb(243, 248, 243);
+    --neutral-500: rgb(132, 132, 132);
+    --neutral-900: rgb(0, 0, 0); 
+
+    --less-rounded: 5px;
+    --rounded: 10px;
+    --more-rounded: 15px;
+    --pill: 30px;
+    --circle: 50px;
+
+    --font-mono: "JetBrains Mono", monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+}
+
+body {
+    font-family: "Atkinson", sans-serif;
+    line-height: 1.6;
+    background-color: var(--neutral-100);
+    color: var(--neutral-900);
+    min-height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+.error {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-weight: bold;
+    border-radius: var(--rounded);
+    border: 2px solid red;
+    padding: 1rem;
+    background-color: var(--neutral-200);
+    z-index: 10;
+}
+
+.success {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: green;
+    font-weight: bold;
+    border-radius: var(--rounded);
+    border: 2px solid green;
+    padding: 1rem;
+    background-color: var(--neutral-200);
+    z-index: 10;
+}
+
+input:active, input:focus {
+    outline: none;
+
+}

@@ -1,0 +1,3834 @@
+{
+    "afterward": {
+        "Definition": "happening after something else happened",
+        "Parts of Speech": "adverb"
+    },
+    "amongst": {
+        "Definition": "in or through a group",
+        "Parts of Speech": "preposition"
+    },
+    "artistic": {
+        "Definition": "Being able to paint, write music, etc.; creative",
+        "Parts of Speech": "adjective"
+    },
+    "backward": {
+        "Definition": "toward what is behind you",
+        "Parts of Speech": "adverb"
+    },
+    "bodily": {
+        "Definition": "physically, as when lifting someone",
+        "Parts of Speech": "adverb"
+    },
+    "carrier": {
+        "Definition": "a company, usually an airline, that carries things",
+        "Parts of Speech": "noun"
+    },
+    "collective": {
+        "Definition": "formed by working together as a group",
+        "Parts of Speech": "adjective"
+    },
+    "computation": {
+        "Definition": "the act of calculating; method of computing",
+        "Parts of Speech": "noun"
+    },
+    "continuity": {
+        "Definition": "continued existence; fact of not stopping",
+        "Parts of Speech": "noun"
+    },
+    "definite": {
+        "Definition": "Not likely to change; clearly decided",
+        "Parts of Speech": "adjective"
+    },
+    "freely": {
+        "Definition": "(living, existing) without being controlled",
+        "Parts of Speech": "adverb"
+    },
+    "generalization": {
+        "Definition": "making a statement about a group from limited data",
+        "Parts of Speech": "noun"
+    },
+    "generalize": {
+        "Definition": "To apply a particular idea to a large group",
+        "Parts of Speech": "verb"
+    },
+    "goodness": {
+        "Definition": "nourishment; good food value",
+        "Parts of Speech": "noun"
+    },
+    "historically": {
+        "Definition": "throughout history",
+        "Parts of Speech": "adverb"
+    },
+    "importantly": {
+        "Definition": "in an important way;",
+        "Parts of Speech": "adverb"
+    },
+    "interestingly": {
+        "Definition": "you'll find this surprising; in an interesting way",
+        "Parts of Speech": "adverb"
+    },
+    "locally": {
+        "Definition": "Concerning the area around where you are",
+        "Parts of Speech": "adjective"
+    },
+    "machinery": {
+        "Definition": "machines in general",
+        "Parts of Speech": "noun"
+    },
+    "marker": {
+        "Definition": "something that is easy to recognize or identify",
+        "Parts of Speech": "noun"
+    },
+    "meaningful": {
+        "Definition": "Having importance; showing someone's intention",
+        "Parts of Speech": "adjective"
+    },
+    "namely": {
+        "Definition": "that is to say, specifically",
+        "Parts of Speech": "adverb"
+    },
+    "nationalism": {
+        "Definition": "The spirit of love of your country, e.g. leading to war",
+        "Parts of Speech": "noun"
+    },
+    "neat": {
+        "Definition": "Not messy; clean and orderly; simple and effective",
+        "Parts of Speech": "adjective"
+    },
+    "nicely": {
+        "Definition": "in a pleasing way; in a polite way",
+        "Parts of Speech": "adverb"
+    },
+    "noisy": {
+        "Definition": "full of noise; loud",
+        "Parts of Speech": "adjective"
+    },
+    "outer": {
+        "Definition": "on or around something",
+        "Parts of Speech": "adjective"
+    },
+    "painful": {
+        "Definition": "causing or feeling physical pain or hurt",
+        "Parts of Speech": "adjective"
+    },
+    "pardon": {
+        "Definition": "to excuse",
+        "Parts of Speech": "verb"
+    },
+    "parental": {
+        "Definition": "concerning, or provided by, a parent",
+        "Parts of Speech": "adjective"
+    },
+    "partial": {
+        "Definition": "not complete; being only part of something",
+        "Parts of Speech": "adjective"
+    },
+    "partially": {
+        "Definition": "in part; in some degree; not wholly",
+        "Parts of Speech": "adverb"
+    },
+    "photographic": {
+        "Definition": "concerning the art of making images with cameras",
+        "Parts of Speech": "adjective"
+    },
+    "planner": {
+        "Definition": "notebook for recording appointments or things to do",
+        "Parts of Speech": "noun"
+    },
+    "problematic": {
+        "Definition": "being difficult to deal with or fix",
+        "Parts of Speech": "adjective"
+    },
+    "readily": {
+        "Definition": "in a quick and easy manner",
+        "Parts of Speech": "adverb"
+    },
+    "realism": {
+        "Definition": "accepting things as they are, not as you want",
+        "Parts of Speech": "noun"
+    },
+    "realistic": {
+        "Definition": "looks or appears real; like things really are",
+        "Parts of Speech": "adjective"
+    },
+    "rewrite": {
+        "Definition": "to write again to improve, or correct errors",
+        "Parts of Speech": "verb"
+    },
+    "ruler": {
+        "Definition": "someone who has control over a country or area",
+        "Parts of Speech": "noun"
+    },
+    "sexuality": {
+        "Definition": "characterized and distinguished by sex",
+        "Parts of Speech": "noun"
+    },
+    "simplify": {
+        "Definition": "to make something easier to do, use or understand",
+        "Parts of Speech": "verb"
+    },
+    "sometime": {
+        "Definition": "at an unknown time in the future",
+        "Parts of Speech": "adjective"
+    },
+    "specialty": {
+        "Definition": "the specific area of your field",
+        "Parts of Speech": "noun"
+    },
+    "subset": {
+        "Definition": "a small set which is part of a larger set",
+        "Parts of Speech": "noun"
+    },
+    "supposedly": {
+        "Definition": "as some people believe (shows you doubt it)",
+        "Parts of Speech": "adverb"
+    },
+    "systematic": {
+        "Definition": "done in a thorough, logical or planned way",
+        "Parts of Speech": "adjective"
+    },
+    "terribly": {
+        "Definition": "to an extreme degree; badly; very",
+        "Parts of Speech": "adverb"
+    },
+    "thickness": {
+        "Definition": "the distance between the opposite edges of a thing",
+        "Parts of Speech": "noun"
+    },
+    "underneath": {
+        "Definition": "below or beneath something; under",
+        "Parts of Speech": "adverb"
+    },
+    "unemployed": {
+        "Definition": "being without a job; jobless",
+        "Parts of Speech": "adjective"
+    },
+    "whichever": {
+        "Definition": "whatever one",
+        "Parts of Speech": "determiner"
+    },
+    "whoever": {
+        "Definition": "whatever person; any person at all",
+        "Parts of Speech": "pronoun"
+    },
+    "accent": {
+        "Definition": "a way of speaking that shows your dialect or class",
+        "Parts of Speech": "noun"
+    },
+    "actively": {
+        "Definition": "doing things to achieve a specific goal",
+        "Parts of Speech": "adverb"
+    },
+    "adaptation": {
+        "Definition": "changing to a new form; thing that is changed",
+        "Parts of Speech": "noun"
+    },
+    "adaptive": {
+        "Definition": "able to adjectiveust to new conditions",
+        "Parts of Speech": "adjective"
+    },
+    "apple": {
+        "Definition": "hard round red or green fruit with a white center",
+        "Parts of Speech": "noun"
+    },
+    "authority": {
+        "Definition": "people in positions of power, able to decide things",
+        "Parts of Speech": "noun"
+    },
+    "availability": {
+        "Definition": "being present and able to be used",
+        "Parts of Speech": "noun"
+    },
+    "bang": {
+        "Definition": "to strike something loudly or forcefully",
+        "Parts of Speech": "verb"
+    },
+    "bat": {
+        "Definition": "object used for hitting a ball in various games",
+        "Parts of Speech": "noun"
+    },
+    "blank": {
+        "Definition": "being empty; not filled out; with no writing on it",
+        "Parts of Speech": "adjective"
+    },
+    "bleed": {
+        "Definition": "to lose blood because of an injury",
+        "Parts of Speech": "verb"
+    },
+    "bound": {
+        "Definition": "to go to a specified place; to jump",
+        "Parts of Speech": "verb"
+    },
+    "broadly": {
+        "Definition": "in a general (not detailed) manner",
+        "Parts of Speech": "adverb"
+    },
+    "bucket": {
+        "Definition": "open container with a handle used to carry liquids",
+        "Parts of Speech": "noun"
+    },
+    "calculation": {
+        "Definition": "process or result of using mathematics",
+        "Parts of Speech": "noun"
+    },
+    "calculator": {
+        "Definition": "a small electronic device used for calculation",
+        "Parts of Speech": "noun"
+    },
+    "characterization": {
+        "Definition": "the way someone or something is described",
+        "Parts of Speech": "noun"
+    },
+    "cheat": {
+        "Definition": "To act in dishonest manner to gain an adverbantage",
+        "Parts of Speech": "verb"
+    },
+    "cheers": {
+        "Definition": "a toast used when raising your glass to drink",
+        "Parts of Speech": "noun"
+    },
+    "clever": {
+        "Definition": "Showing intelligence; quick to understand or learn",
+        "Parts of Speech": "adjective"
+    },
+    "clip": {
+        "Definition": "a metal holder used for keeping things together",
+        "Parts of Speech": "noun"
+    },
+    "clue": {
+        "Definition": "a piece of information that helps explain a situation or provide a solution to a problem",
+        "Parts of Speech": "noun"
+    },
+    "commentary": {
+        "Definition": "explanation or discussion of a written work/event",
+        "Parts of Speech": "noun"
+    },
+    "commonly": {
+        "Definition": "typically, normally; not unusually",
+        "Parts of Speech": "adverb"
+    },
+    "comparable": {
+        "Definition": "being similar in some way",
+        "Parts of Speech": "adjective"
+    },
+    "complication": {
+        "Definition": "action making something harder to do something",
+        "Parts of Speech": "noun"
+    },
+    "conditional": {
+        "Definition": "depending (on)",
+        "Parts of Speech": "adjective"
+    },
+    "connector": {
+        "Definition": "a device that joins things together",
+        "Parts of Speech": "noun"
+    },
+    "conscious": {
+        "Definition": "aware of what is going on around you; not knocked out",
+        "Parts of Speech": "adjective"
+    },
+    "consciousness": {
+        "Definition": "being awake",
+        "Parts of Speech": "noun"
+    },
+    "container": {
+        "Definition": "an object that can be used to hold things",
+        "Parts of Speech": "noun"
+    },
+    "correction": {
+        "Definition": "a change to make something right",
+        "Parts of Speech": "noun"
+    },
+    "correctly": {
+        "Definition": "in an accurate or correct manner",
+        "Parts of Speech": "adverb"
+    },
+    "cure": {
+        "Definition": "a medicine or treatment that makes an ill person become healthy",
+        "Parts of Speech": "noun"
+    },
+    "detection": {
+        "Definition": "the act of discovering something or solving a crime",
+        "Parts of Speech": "noun"
+    },
+    "developmental": {
+        "Definition": "concerning the development or growth",
+        "Parts of Speech": "adjective"
+    },
+    "directive": {
+        "Definition": "formal an order from an authority",
+        "Parts of Speech": "noun"
+    },
+    "disturbance": {
+        "Definition": "a noise or something that stops you from continuing what you were doing",
+        "Parts of Speech": "noun"
+    },
+    "economically": {
+        "Definition": "in an efficient manner; without using too much effort",
+        "Parts of Speech": "adverb"
+    },
+    "economist": {
+        "Definition": "a person who studies economics",
+        "Parts of Speech": "noun"
+    },
+    "enormously": {
+        "Definition": "extremely, by a large amount",
+        "Parts of Speech": "adverb"
+    },
+    "equality": {
+        "Definition": "the idea that all people have the same rights",
+        "Parts of Speech": "noun"
+    },
+    "flip": {
+        "Definition": "to rotate or turn something over",
+        "Parts of Speech": "noun"
+    },
+    "ghost": {
+        "Definition": "spirit of a dead person, appearing to the living",
+        "Parts of Speech": "noun"
+    },
+    "hedge": {
+        "Definition": "a fence made with small trees; avoid or try to avoid fulfilling",
+        "Parts of Speech": "noun"
+    },
+    "identification": {
+        "Definition": "(card or paper) that proves who a person is",
+        "Parts of Speech": "noun"
+    },
+    "incredible": {
+        "Definition": "very hard to believe",
+        "Parts of Speech": "adjective"
+    },
+    "incredibly": {
+        "Definition": "extremely, hard to believe",
+        "Parts of Speech": "adverb"
+    },
+    "indicator": {
+        "Definition": "an instrument that shows conditions in a machine, such as temperature, speed, pressure; in chemistry: a compound that changes color in the presence of an acid or a base",
+        "Parts of Speech": "noun"
+    },
+    "individually": {
+        "Definition": "in a way involving only that person",
+        "Parts of Speech": "adverb"
+    },
+    "industrialization": {
+        "Definition": "process of creating and developing many businesses",
+        "Parts of Speech": "noun"
+    },
+    "industrialize": {
+        "Definition": "To make into something at an industrial level",
+        "Parts of Speech": "verb"
+    },
+    "inequality": {
+        "Definition": "situation where things are not equal/fair",
+        "Parts of Speech": "noun"
+    },
+    "influential": {
+        "Definition": "having the power to cause change; having influence",
+        "Parts of Speech": "adjective"
+    },
+    "instability": {
+        "Definition": "not stable; changeable",
+        "Parts of Speech": "noun"
+    },
+    "intensity": {
+        "Definition": "great energy, strength, or concentration",
+        "Parts of Speech": "noun"
+    },
+    "intensive": {
+        "Definition": "needing great effort for a short period of time",
+        "Parts of Speech": "adjective"
+    },
+    "interrupt": {
+        "Definition": "to cause something to stop happening for a time",
+        "Parts of Speech": "verb"
+    },
+    "interviewer": {
+        "Definition": "a person who asks questions to obtain information",
+        "Parts of Speech": "noun"
+    },
+    "junior": {
+        "Definition": "someone lower in rank",
+        "Parts of Speech": "adjective"
+    },
+    "kilometer": {
+        "Definition": "a metric unit of length equal to 1000 meters",
+        "Parts of Speech": "noun"
+    },
+    "lab": {
+        "Definition": "laboratory; a place to do scientific experiments",
+        "Parts of Speech": "noun"
+    },
+    "likelihood": {
+        "Definition": "the chance that something might happen",
+        "Parts of Speech": "noun"
+    },
+    "lump": {
+        "Definition": "a small hard part of something smooth, soft, or continuous",
+        "Parts of Speech": "noun"
+    },
+    "mathematical": {
+        "Definition": "concerning numbers and equations",
+        "Parts of Speech": "adjective"
+    },
+    "memorize": {
+        "Definition": "to study something so that you remember it",
+        "Parts of Speech": "verb"
+    },
+    "minus": {
+        "Definition": "(prep) being less than zero in number",
+        "Parts of Speech": "preposition"
+    },
+    "monkey": {
+        "Definition": "an animal related to humans, which lives in trees",
+        "Parts of Speech": "noun"
+    },
+    "nasty": {
+        "Definition": "very bad, unpleasant, or offensive",
+        "Parts of Speech": "adjective"
+    },
+    "nest": {
+        "Definition": "the home of a bird or spider",
+        "Parts of Speech": "noun"
+    },
+    "observer": {
+        "Definition": "someone whose job it is to watch or notice things",
+        "Parts of Speech": "noun"
+    },
+    "occurrence": {
+        "Definition": "specific instance of something happening",
+        "Parts of Speech": "noun"
+    },
+    "periodic": {
+        "Definition": "happening regularly, but not frequently",
+        "Parts of Speech": "adjective"
+    },
+    "physically": {
+        "Definition": "in a manner related to the body",
+        "Parts of Speech": "adverb"
+    },
+    "plug": {
+        "Definition": "an electrical connector; to fill or close tightly so liquid or air cannot pass",
+        "Parts of Speech": "verb"
+    },
+    "politically": {
+        "Definition": "in connection with government matters",
+        "Parts of Speech": "adverb"
+    },
+    "positively": {
+        "Definition": "definitely or certainly",
+        "Parts of Speech": "adverb"
+    },
+    "presume": {
+        "Definition": "to think that something is probably true",
+        "Parts of Speech": "verb"
+    },
+    "processor": {
+        "Definition": "a machine or company that prepares something and makes it ready for use",
+        "Parts of Speech": "noun"
+    },
+    "productive": {
+        "Definition": "doing a lot of work and achieving a lot",
+        "Parts of Speech": "adjective"
+    },
+    "productivity": {
+        "Definition": "rate at which something is made or that people work",
+        "Parts of Speech": "noun"
+    },
+    "progression": {
+        "Definition": "process of developing over time",
+        "Parts of Speech": "noun"
+    },
+    "progressive": {
+        "Definition": "believing in modern ideas about social change",
+        "Parts of Speech": "adjective"
+    },
+    "projection": {
+        "Definition": "an image on a screen",
+        "Parts of Speech": "noun"
+    },
+    "pronounce": {
+        "Definition": "to make the sound of a word or letter with your voice",
+        "Parts of Speech": "verb"
+    },
+    "punch": {
+        "Definition": "to make a quick hit with a closed hand",
+        "Parts of Speech": "verb"
+    },
+    "punish": {
+        "Definition": "to make someone suffer for bad behavior",
+        "Parts of Speech": "verb"
+    },
+    "punishment": {
+        "Definition": "the act of punishing someone",
+        "Parts of Speech": "noun"
+    },
+    "purely": {
+        "Definition": "for no other reason; only and completely",
+        "Parts of Speech": "adverb"
+    },
+    "quotation": {
+        "Definition": "words that a person has said or written in a play, book or movie",
+        "Parts of Speech": "noun"
+    },
+    "ray": {
+        "Definition": "the lines of light coming from an object",
+        "Parts of Speech": "noun"
+    },
+    "reactive": {
+        "Definition": "easily reacting to; responsive",
+        "Parts of Speech": "adjective"
+    },
+    "reactor": {
+        "Definition": "device to control nuclear energy as a power source",
+        "Parts of Speech": "noun"
+    },
+    "recipe": {
+        "Definition": "directions for making something",
+        "Parts of Speech": "noun"
+    },
+    "reliability": {
+        "Definition": "a quality that makes someone or something dependable and deserving of trust",
+        "Parts of Speech": "noun"
+    },
+    "replacement": {
+        "Definition": "the act of putting something new in the place of something that is old, broken or missing",
+        "Parts of Speech": "noun"
+    },
+    "resistant": {
+        "Definition": "not affected by something",
+        "Parts of Speech": "adjective"
+    },
+    "ridiculous": {
+        "Definition": "something that deserves laughter, is foolish or funny",
+        "Parts of Speech": "adjective"
+    },
+    "rope": {
+        "Definition": "a thick string made by twisting many fibers together",
+        "Parts of Speech": "noun"
+    },
+    "rub": {
+        "Definition": "to move something back and forth along a surface",
+        "Parts of Speech": "verb"
+    },
+    "selective": {
+        "Definition": "choosing through thoughtful comparison",
+        "Parts of Speech": "adjective"
+    },
+    "separately": {
+        "Definition": "not with another person or thing",
+        "Parts of Speech": "adverb"
+    },
+    "separation": {
+        "Definition": "a line that seperates; a point of parting; a gap",
+        "Parts of Speech": "noun"
+    },
+    "similarity": {
+        "Definition": "the degree to which people or things are the same",
+        "Parts of Speech": "noun"
+    },
+    "slavery": {
+        "Definition": "(n,) the state of being a slave",
+        "Parts of Speech": "noun"
+    },
+    "snake": {
+        "Definition": "an animal with with a long thin body and no arms or legs",
+        "Parts of Speech": "noun"
+    },
+    "socially": {
+        "Definition": "being with other people",
+        "Parts of Speech": "adverb"
+    },
+    "specification": {
+        "Definition": "a detailed description of the design and materials used to make something.",
+        "Parts of Speech": "noun"
+    },
+    "spray": {
+        "Definition": "to make water or liquid fly in very small drops",
+        "Parts of Speech": "verb"
+    },
+    "stabilize": {
+        "Definition": "to make something stable or consistent, with no major changes",
+        "Parts of Speech": "verb"
+    },
+    "standardize": {
+        "Definition": "to change something in order to make everything the same or make everything agree",
+        "Parts of Speech": "verb"
+    },
+    "sword": {
+        "Definition": "a long metal weapon with a sharp point and edge",
+        "Parts of Speech": "noun"
+    },
+    "tech": {
+        "Definition": "short for 'technology' or 'technician'",
+        "Parts of Speech": "noun"
+    },
+    "tempt": {
+        "Definition": "to make someone want something, even if it's bad",
+        "Parts of Speech": "verb"
+    },
+    "tense": {
+        "Definition": "stretched tight and stiff",
+        "Parts of Speech": "adjective"
+    },
+    "traditionally": {
+        "Definition": "something done in a customary or traditional manner",
+        "Parts of Speech": "adverb"
+    },
+    "tricky": {
+        "Definition": "difficult to do or deal with; something that needs skill",
+        "Parts of Speech": "adjective"
+    },
+    "unstable": {
+        "Definition": "likely to move from its position or fall",
+        "Parts of Speech": "adjective"
+    },
+    "variability": {
+        "Definition": "(statistics) degree scores depart from the mean",
+        "Parts of Speech": "noun"
+    },
+    "variance": {
+        "Definition": "(statistics) amount of difference in distributions",
+        "Parts of Speech": "noun"
+    },
+    "variant": {
+        "Definition": "thing that differs from something of the same kind",
+        "Parts of Speech": "noun"
+    },
+    "wisdom": {
+        "Definition": "knowledge gained from experience in life",
+        "Parts of Speech": "noun"
+    },
+    "absorb": {
+        "Definition": "to take in a liquid; soak up",
+        "Parts of Speech": "verb"
+    },
+    "absorption": {
+        "Definition": "process of being absorbed (e.g. liquid, attention)",
+        "Parts of Speech": "noun"
+    },
+    "accelerate": {
+        "Definition": "to increase the speed or rate of something",
+        "Parts of Speech": "verb"
+    },
+    "acceleration": {
+        "Definition": "increase in the speed or rate of something",
+        "Parts of Speech": "noun"
+    },
+    "accumulate": {
+        "Definition": "To gather or acquire so that you have more of it",
+        "Parts of Speech": "verb"
+    },
+    "accumulation": {
+        "Definition": "The act of getting or becoming bigger or more over time",
+        "Parts of Speech": "noun"
+    },
+    "accuracy": {
+        "Definition": "being exactly right; correctness",
+        "Parts of Speech": "noun"
+    },
+    "accurately": {
+        "Definition": "exactly and without any mistakes; correctly",
+        "Parts of Speech": "adverb"
+    },
+    "acid": {
+        "Definition": "sour substance that reacts with metals e.g. lemon",
+        "Parts of Speech": "noun"
+    },
+    "acidic": {
+        "Definition": "containing acid",
+        "Parts of Speech": "adjective"
+    },
+    "admission": {
+        "Definition": "the act of taking responsibility for an error or mistake",
+        "Parts of Speech": "noun"
+    },
+    "adolescent": {
+        "Definition": "Teenager developing into an adult",
+        "Parts of Speech": "noun"
+    },
+    "affirm": {
+        "Definition": "to state, strengthen or support a belief you have",
+        "Parts of Speech": "verb"
+    },
+    "agriculture": {
+        "Definition": "the science of farming",
+        "Parts of Speech": "noun"
+    },
+    "alien": {
+        "Definition": "person or creature from a planet other than Earth",
+        "Parts of Speech": "noun"
+    },
+    "alliance": {
+        "Definition": "A group of people or organizations being joined or associated",
+        "Parts of Speech": "noun"
+    },
+    "allocate": {
+        "Definition": "To distribute or set apart for a plan or purpose",
+        "Parts of Speech": "verb"
+    },
+    "allocation": {
+        "Definition": "The distribution of items set apart according to a plan or purpose",
+        "Parts of Speech": "noun"
+    },
+    "approximate": {
+        "Definition": "about; not exact but close",
+        "Parts of Speech": "adjective"
+    },
+    "approximation": {
+        "Definition": "something that is similar, but not an exact copy",
+        "Parts of Speech": "noun"
+    },
+    "archaeology": {
+        "Definition": "the study of ancient societies by looking at old tools, bones and buildings",
+        "Parts of Speech": "noun"
+    },
+    "architect": {
+        "Definition": "person who designs and adverbises on buildings",
+        "Parts of Speech": "noun"
+    },
+    "aspect": {
+        "Definition": "an element, feature, or quality of something",
+        "Parts of Speech": "noun"
+    },
+    "assembly": {
+        "Definition": "a group of machine parts forming a tool or machine",
+        "Parts of Speech": "noun"
+    },
+    "assert": {
+        "Definition": "To state or declare your ideas positively strongly",
+        "Parts of Speech": "verb"
+    },
+    "assignment": {
+        "Definition": "A duty that you are give to do (especially in the armed forces)",
+        "Parts of Speech": "noun"
+    },
+    "athletic": {
+        "Definition": "fit and strong; physically capable",
+        "Parts of Speech": "adjective"
+    },
+    "atom": {
+        "Definition": "smallest bit that matter can be broken down into",
+        "Parts of Speech": "noun"
+    },
+    "atomic": {
+        "Definition": "concerning atoms",
+        "Parts of Speech": "adjective"
+    },
+    "audit": {
+        "Definition": "to examine carefully for accuracy",
+        "Parts of Speech": "verb"
+    },
+    "bacteria": {
+        "Definition": "the very small creatures that sometimes cause disease in humans and animals",
+        "Parts of Speech": "noun"
+    },
+    "bacterial": {
+        "Definition": "concerning or caused by bacteria",
+        "Parts of Speech": "adjective"
+    },
+    "bargain": {
+        "Definition": "something bought for a lower price than expected",
+        "Parts of Speech": "noun"
+    },
+    "beam": {
+        "Definition": "a long piece of metal or wood; a line of light or energy",
+        "Parts of Speech": "noun"
+    },
+    "behavioral": {
+        "Definition": "concerning the way people act",
+        "Parts of Speech": "adjective"
+    },
+    "cattle": {
+        "Definition": "cows or bulls on a farm",
+        "Parts of Speech": "noun"
+    },
+    "circulate": {
+        "Definition": "to go round continuously",
+        "Parts of Speech": "verb"
+    },
+    "circulation": {
+        "Definition": "the movement of blood through the body",
+        "Parts of Speech": "noun"
+    },
+    "civilization": {
+        "Definition": "a highly developed society",
+        "Parts of Speech": "noun"
+    },
+    "clarify": {
+        "Definition": "to state again so that a point is clearer",
+        "Parts of Speech": "verb"
+    },
+    "client": {
+        "Definition": "person paying for professional services",
+        "Parts of Speech": "noun"
+    },
+    "clinic": {
+        "Definition": "local medical center; department of a hospital",
+        "Parts of Speech": "noun"
+    },
+    "colonial": {
+        "Definition": "of a system where one country controls another",
+        "Parts of Speech": "adjective"
+    },
+    "colony": {
+        "Definition": "country or settlement controlled by another country",
+        "Parts of Speech": "noun"
+    },
+    "communicative": {
+        "Definition": "talkative; cooperative in giving information",
+        "Parts of Speech": "adjective"
+    },
+    "communist": {
+        "Definition": "believer in communism",
+        "Parts of Speech": "adjective"
+    },
+    "compensate": {
+        "Definition": "to give (money) to as a form of correcting a loss",
+        "Parts of Speech": "verb"
+    },
+    "competent": {
+        "Definition": "fully qualified or capable of doing",
+        "Parts of Speech": "adjective"
+    },
+    "composer": {
+        "Definition": "a music writer",
+        "Parts of Speech": "noun"
+    },
+    "conceive": {
+        "Definition": "to think of, or create, something new (e.g. idea, child)",
+        "Parts of Speech": "verb"
+    },
+    "conception": {
+        "Definition": "an idea or notion; the first stage in pregnancy",
+        "Parts of Speech": "noun"
+    },
+    "conceptual": {
+        "Definition": "characterized by concepts or the forming of concepts",
+        "Parts of Speech": "adjective"
+    },
+    "conduction": {
+        "Definition": "the transmission of heat, electricity or sound",
+        "Parts of Speech": "noun"
+    },
+    "confine": {
+        "Definition": "to keep something or someone within a limited area so it cannot escape",
+        "Parts of Speech": "verb"
+    },
+    "consent": {
+        "Definition": "to agree or allow to do something",
+        "Parts of Speech": "verb"
+    },
+    "conservation": {
+        "Definition": "the management of land and water in ways that stop it from being damaged",
+        "Parts of Speech": "noun"
+    },
+    "conserve": {
+        "Definition": "to keep safe",
+        "Parts of Speech": "verb"
+    },
+    "constitution": {
+        "Definition": "a law determining the fundamental political principles of a government",
+        "Parts of Speech": "noun"
+    },
+    "constrain": {
+        "Definition": "To make someone do something by strong persuasion or force",
+        "Parts of Speech": "verb"
+    },
+    "consultation": {
+        "Definition": "a discussion between people to make a decision",
+        "Parts of Speech": "noun"
+    },
+    "consumption": {
+        "Definition": "how much is spent on things; the process of eating and drinking",
+        "Parts of Speech": "noun"
+    },
+    "continent": {
+        "Definition": "one of the very large areas of land on Earth that are usually divided into several countries",
+        "Parts of Speech": "noun"
+    },
+    "contradict": {
+        "Definition": "to disagree, to say the opposite is true",
+        "Parts of Speech": "verb"
+    },
+    "contradiction": {
+        "Definition": "the act of saying that something is not true or very different",
+        "Parts of Speech": "noun"
+    },
+    "contradictory": {
+        "Definition": "containing information, statements, or beliefs that do not agree with one another",
+        "Parts of Speech": "adjective"
+    },
+    "controversy": {
+        "Definition": "strong public disagreement about something",
+        "Parts of Speech": "noun"
+    },
+    "coordinate": {
+        "Definition": "to bring order and organization to something; in maths: any of the magnitudes that serve to define the position of a point or line by reference to a fixed figure or system of lines.",
+        "Parts of Speech": "verb"
+    },
+    "coordination": {
+        "Definition": "organizing people or things to make them work together effectively",
+        "Parts of Speech": "noun"
+    },
+    "correlate": {
+        "Definition": "to show the relationship between two items or events.",
+        "Parts of Speech": "verb"
+    },
+    "correlation": {
+        "Definition": "a measure of the relationship between two variables",
+        "Parts of Speech": "noun"
+    },
+    "correspondence": {
+        "Definition": "Communication by letters, emails or text messages",
+        "Parts of Speech": "noun"
+    },
+    "corruption": {
+        "Definition": "actions that are illegal or morally questionable, often performed by a person in a position of power",
+        "Parts of Speech": "noun"
+    },
+    "criteria": {
+        "Definition": "standard used to make judgments or decisions",
+        "Parts of Speech": "noun"
+    },
+    "critically": {
+        "Definition": "in a way that is serious or dangerous; vitally",
+        "Parts of Speech": "adverb"
+    },
+    "crystal": {
+        "Definition": "a solid formed by the solidification of a chemical",
+        "Parts of Speech": "noun"
+    },
+    "curriculum": {
+        "Definition": "group of related courses in a school or college",
+        "Parts of Speech": "noun"
+    },
+    "cyclic": {
+        "Definition": "a series of regular and repeated actions",
+        "Parts of Speech": "adjective"
+    },
+    "damp": {
+        "Definition": "a little wet",
+        "Parts of Speech": "adjective"
+    },
+    "deliberately": {
+        "Definition": "in a careful, considered manner",
+        "Parts of Speech": "adverb"
+    },
+    "demonstrator": {
+        "Definition": "person who shows how something works e.g. product",
+        "Parts of Speech": "noun"
+    },
+    "dense": {
+        "Definition": "very thick and difficult to see/get through",
+        "Parts of Speech": "adjective"
+    },
+    "depict": {
+        "Definition": "to describe someone or something",
+        "Parts of Speech": "verb"
+    },
+    "derivative": {
+        "Definition": "something that has developed or been obtained from something else",
+        "Parts of Speech": "adjective"
+    },
+    "dictate": {
+        "Definition": "to speak while another person (or computer) writes the words down",
+        "Parts of Speech": "verb"
+    },
+    "dimensional": {
+        "Definition": "having parts that extent in a number of directions",
+        "Parts of Speech": "adjective"
+    },
+    "disability": {
+        "Definition": "a condition that limits a person's ability to do something",
+        "Parts of Speech": "noun"
+    },
+    "discharge": {
+        "Definition": "to release someone or something",
+        "Parts of Speech": "verb"
+    },
+    "discourse": {
+        "Definition": "talk, conversation",
+        "Parts of Speech": "noun"
+    },
+    "discrimination": {
+        "Definition": "the ability to recognize the difference between things; treating different groups of people unfairly",
+        "Parts of Speech": "noun"
+    },
+    "distribution": {
+        "Definition": "#NAME?",
+        "Parts of Speech": "noun"
+    },
+    "diverse": {
+        "Definition": "very different from each other",
+        "Parts of Speech": "adjective"
+    },
+    "dominant": {
+        "Definition": "strongest",
+        "Parts of Speech": "adjective"
+    },
+    "domination": {
+        "Definition": "authority; rule; control",
+        "Parts of Speech": "noun"
+    },
+    "dose": {
+        "Definition": "an amount of medicine to be taken at any one time",
+        "Parts of Speech": "noun"
+    },
+    "drain": {
+        "Definition": "a pipe that removes water, or other liquids",
+        "Parts of Speech": "noun"
+    },
+    "drift": {
+        "Definition": "to move slowly",
+        "Parts of Speech": "noun"
+    },
+    "effectiveness": {
+        "Definition": "the degree of how well something works or is done",
+        "Parts of Speech": "noun"
+    },
+    "elaborate": {
+        "Definition": "to be made or done with great care or with much detail",
+        "Parts of Speech": "adjective"
+    },
+    "elevate": {
+        "Definition": "to make something higher",
+        "Parts of Speech": "verb"
+    },
+    "elevation": {
+        "Definition": "the height of a place",
+        "Parts of Speech": "noun"
+    },
+    "elimination": {
+        "Definition": "the act or process of removing or being removed",
+        "Parts of Speech": "noun"
+    },
+    "elite": {
+        "Definition": "important people of high status",
+        "Parts of Speech": "noun"
+    },
+    "emergence": {
+        "Definition": "the process of emerging/coming out",
+        "Parts of Speech": "noun"
+    },
+    "emission": {
+        "Definition": "a substance (e.g. gas) released into the air",
+        "Parts of Speech": "noun"
+    },
+    "emit": {
+        "Definition": "formal to release or send out (a gas, etc)",
+        "Parts of Speech": "verb"
+    },
+    "enforcement": {
+        "Definition": "the act or process of making sure that rules are followed",
+        "Parts of Speech": "noun"
+    },
+    "essentially": {
+        "Definition": "basically, primarily",
+        "Parts of Speech": "adverb"
+    },
+    "estimation": {
+        "Definition": "judgment; opinion; guess at the value of",
+        "Parts of Speech": "noun"
+    },
+    "evident": {
+        "Definition": "plain, clear",
+        "Parts of Speech": "adjective"
+    },
+    "evolutionary": {
+        "Definition": "concerning evolution",
+        "Parts of Speech": "adjective"
+    },
+    "execute": {
+        "Definition": "To kill someone, usually as an official punishment",
+        "Parts of Speech": "verb"
+    },
+    "execution": {
+        "Definition": "killing a person as a (usually legal) punishment",
+        "Parts of Speech": "noun"
+    },
+    "explicit": {
+        "Definition": "definite; clearly stated; specific",
+        "Parts of Speech": "adjective"
+    },
+    "explicitly": {
+        "Definition": "clearly; specifically",
+        "Parts of Speech": "adverb"
+    },
+    "exploit": {
+        "Definition": "to use something or someone selfishly or unethically",
+        "Parts of Speech": "verb"
+    },
+    "fabric": {
+        "Definition": "cloth",
+        "Parts of Speech": "noun"
+    },
+    "facilitate": {
+        "Definition": "To make an action or process easier",
+        "Parts of Speech": "verb"
+    },
+    "faculty": {
+        "Definition": "the teachers in a school or college",
+        "Parts of Speech": "noun"
+    },
+    "fertility": {
+        "Definition": "the state of a female being able to produce young",
+        "Parts of Speech": "noun"
+    },
+    "fiber": {
+        "Definition": "a thin, threadlike part of an animal hair or plant tissue; an artificial thread; body cells that form muscles and nerves; a food substance",
+        "Parts of Speech": "noun"
+    },
+    "flesh": {
+        "Definition": "the soft parts of the body",
+        "Parts of Speech": "noun"
+    },
+    "flexibility": {
+        "Definition": "the quality of being able to be bent or stretched",
+        "Parts of Speech": "noun"
+    },
+    "formally": {
+        "Definition": "in a formal manner; officially",
+        "Parts of Speech": "adverb"
+    },
+    "formulation": {
+        "Definition": "the development of a plan, system, or proposal",
+        "Parts of Speech": "noun"
+    },
+    "founds": {
+        "Definition": "to be based on, started or created by",
+        "Parts of Speech": "verb"
+    },
+    "fundamentally": {
+        "Definition": "in a basic and important way",
+        "Parts of Speech": "adverb"
+    },
+    "genetically": {
+        "Definition": "caused or controlled, or by genes",
+        "Parts of Speech": "adverb"
+    },
+    "genetics": {
+        "Definition": "the scientific study of genes, how a living things develop between generations",
+        "Parts of Speech": "noun - plural"
+    },
+    "globalization": {
+        "Definition": "international spread of something, e.g. company",
+        "Parts of Speech": "noun"
+    },
+    "goods": {
+        "Definition": "general term for things that are bought or sold",
+        "Parts of Speech": "noun - plural"
+    },
+    "grasp": {
+        "Definition": "to grip something firmly with the hands",
+        "Parts of Speech": "verb"
+    },
+    "gravity": {
+        "Definition": "the force that makes things fall down towards the ground",
+        "Parts of Speech": "noun"
+    },
+    "gross": {
+        "Definition": "total amount; extreme or unreasonable",
+        "Parts of Speech": "adjective"
+    },
+    "hip": {
+        "Definition": "the upper part of the leg",
+        "Parts of Speech": "noun"
+    },
+    "ideology": {
+        "Definition": "ideas or beliefs which form theory and policy",
+        "Parts of Speech": "noun"
+    },
+    "immune": {
+        "Definition": "not affected by something, such as a disease",
+        "Parts of Speech": "adjective"
+    },
+    "impact": {
+        "Definition": "a striking effect or result to hit with force",
+        "Parts of Speech": "noun"
+    },
+    "independently": {
+        "Definition": "in a manner being free from the control of another",
+        "Parts of Speech": "adverb"
+    },
+    "inevitably": {
+        "Definition": "happening with complete certainty",
+        "Parts of Speech": "adverb"
+    },
+    "infect": {
+        "Definition": "to give someone a disease",
+        "Parts of Speech": "verb"
+    },
+    "infectious": {
+        "Definition": "capable of causing infection, by the spreading of a bacteria or virus to others",
+        "Parts of Speech": "adjective"
+    },
+    "initiate": {
+        "Definition": "to start",
+        "Parts of Speech": "verb"
+    },
+    "initiation": {
+        "Definition": "a formal entry into an organization, position or office",
+        "Parts of Speech": "noun"
+    },
+    "inject": {
+        "Definition": "to put medicine into someone with a syringe",
+        "Parts of Speech": "verb"
+    },
+    "injection": {
+        "Definition": "a way to put (inject) a drug or another substance into your body",
+        "Parts of Speech": "noun"
+    },
+    "insert": {
+        "Definition": "to put something in something",
+        "Parts of Speech": "verb"
+    },
+    "instinct": {
+        "Definition": "the natural way a person or animal thinks or behaves, knowledge that is not learned",
+        "Parts of Speech": "noun"
+    },
+    "integration": {
+        "Definition": "act of bringing things together into a whole",
+        "Parts of Speech": "noun"
+    },
+    "interact": {
+        "Definition": "an action that is answered by a reaction, verbal or physical",
+        "Parts of Speech": "verb"
+    },
+    "interfere": {
+        "Definition": "to get involved in the business of others without invitation",
+        "Parts of Speech": "verb"
+    },
+    "intervene": {
+        "Definition": "to get involved, to prevent trouble",
+        "Parts of Speech": "verb"
+    },
+    "invasion": {
+        "Definition": "an entry into a place for the purpose of taking control",
+        "Parts of Speech": "noun"
+    },
+    "irrelevant": {
+        "Definition": "not important, not related to the topic",
+        "Parts of Speech": "adjective"
+    },
+    "justification": {
+        "Definition": "a reason or fact that explains why something happens or exists",
+        "Parts of Speech": "noun"
+    },
+    "lecturer": {
+        "Definition": "a junior teacher in university",
+        "Parts of Speech": "noun"
+    },
+    "legend": {
+        "Definition": "old story generally believed, although not proven",
+        "Parts of Speech": "noun"
+    },
+    "legitimate": {
+        "Definition": "being reasonable and sound",
+        "Parts of Speech": "adjective"
+    },
+    "liable": {
+        "Definition": "legally responsible for something",
+        "Parts of Speech": "adjective"
+    },
+    "logical": {
+        "Definition": "sensible; reasonable",
+        "Parts of Speech": "adjective"
+    },
+    "magnetic": {
+        "Definition": "having the properties of a magnet, being able to attract.",
+        "Parts of Speech": "adjective"
+    },
+    "manipulate": {
+        "Definition": "to control something or someone",
+        "Parts of Speech": "verb"
+    },
+    "manipulation": {
+        "Definition": "the act of controlling something or someone",
+        "Parts of Speech": "noun"
+    },
+    "manual": {
+        "Definition": "needing the use of physical strength or work; a book of information or instructions",
+        "Parts of Speech": "adjective"
+    },
+    "marginal": {
+        "Definition": "very small; on the edge; not important",
+        "Parts of Speech": "adjective"
+    },
+    "mechanic": {
+        "Definition": "a person who looks after machinery",
+        "Parts of Speech": "noun"
+    },
+    "mechanical": {
+        "Definition": "using or having to do with machines",
+        "Parts of Speech": "adjective"
+    },
+    "media": {
+        "Definition": "means of communication (tv, newspapers, internet)",
+        "Parts of Speech": "noun"
+    },
+    "merge": {
+        "Definition": "to cause two or more things to become combined into one",
+        "Parts of Speech": "verb"
+    },
+    "methodology": {
+        "Definition": "system of practices or techniques to show how to do tasks",
+        "Parts of Speech": "noun"
+    },
+    "migrate": {
+        "Definition": "to move from place to another to live or work",
+        "Parts of Speech": "verb"
+    },
+    "migration": {
+        "Definition": "the process by which people or animals move to another place",
+        "Parts of Speech": "noun"
+    },
+    "missile": {
+        "Definition": "a weapon, usually thrown, shot or launched",
+        "Parts of Speech": "noun"
+    },
+    "mobility": {
+        "Definition": "the ability to move",
+        "Parts of Speech": "noun"
+    },
+    "modification": {
+        "Definition": "a small change to a machine, system, or plan",
+        "Parts of Speech": "noun"
+    },
+    "molecular": {
+        "Definition": "about or caused by molecules",
+        "Parts of Speech": "adjective"
+    },
+    "molecule": {
+        "Definition": "two or more atoms chemically combined",
+        "Parts of Speech": "noun"
+    },
+    "morality": {
+        "Definition": "beliefs or ideas about what is right and wrong",
+        "Parts of Speech": "noun"
+    },
+    "mortality": {
+        "Definition": "the quality or state of being human and being able to die",
+        "Parts of Speech": "noun"
+    },
+    "motive": {
+        "Definition": "a reason for doing something",
+        "Parts of Speech": "noun"
+    },
+    "myth": {
+        "Definition": "a popular belief that is false or unsupported by fact",
+        "Parts of Speech": "noun"
+    },
+    "naked": {
+        "Definition": "not wearing any clothes; without covering",
+        "Parts of Speech": "adjective"
+    },
+    "neutral": {
+        "Definition": "not involved; without strong feeling; without electrical charge; not acidic or akaline",
+        "Parts of Speech": "adjective"
+    },
+    "objection": {
+        "Definition": "reason for not supporting or agreeing with a plan",
+        "Parts of Speech": "noun"
+    },
+    "obtain": {
+        "Definition": "To be given or to earn something through efforts",
+        "Parts of Speech": "verb"
+    },
+    "occupation": {
+        "Definition": "a career or regular job",
+        "Parts of Speech": "noun"
+    },
+    "oral": {
+        "Definition": "by mouth",
+        "Parts of Speech": "adjective"
+    },
+    "organ": {
+        "Definition": "large wind instrument similar to a piano",
+        "Parts of Speech": "noun"
+    },
+    "orientation": {
+        "Definition": "the ability to locate oneself in your environment with reference to time, place, and people",
+        "Parts of Speech": "noun"
+    },
+    "peasant": {
+        "Definition": "a person of low social status, usually who works on a farm",
+        "Parts of Speech": "noun"
+    },
+    "philosopher": {
+        "Definition": "a person who studies ideas about things such as the meaning of life and truth",
+        "Parts of Speech": "noun"
+    },
+    "philosophical": {
+        "Definition": "concerning philosophy",
+        "Parts of Speech": "adjective"
+    },
+    "powder": {
+        "Definition": "a dry substance made up of very small pieces",
+        "Parts of Speech": "noun"
+    },
+    "practitioner": {
+        "Definition": "a person working in a profession, such as medicine",
+        "Parts of Speech": "noun"
+    },
+    "precede": {
+        "Definition": "to go before",
+        "Parts of Speech": "verb"
+    },
+    "prediction": {
+        "Definition": "a statement of what will happen next.",
+        "Parts of Speech": "noun"
+    },
+    "probe": {
+        "Definition": "a system or piece of equipment that is used to get information; in medicine: a long thin instrument used for looking inside your body",
+        "Parts of Speech": "verb"
+    },
+    "profound": {
+        "Definition": "showing a lot of deep knowledge or thought",
+        "Parts of Speech": "adjective"
+    },
+    "prominent": {
+        "Definition": "being important or well known",
+        "Parts of Speech": "adjective"
+    },
+    "psychiatric": {
+        "Definition": "concerning or used in psychiatry",
+        "Parts of Speech": "adjective"
+    },
+    "psychologist": {
+        "Definition": "an expert who studies the mind and behavior",
+        "Parts of Speech": "noun"
+    },
+    "psychology": {
+        "Definition": "the study of the mind and how it affects behaviour",
+        "Parts of Speech": "noun"
+    },
+    "publish": {
+        "Definition": "to prepare a book, journal, magazine and make it available",
+        "Parts of Speech": "verb"
+    },
+    "puzzle": {
+        "Definition": "a problem that requires thought and skill to be solved",
+        "Parts of Speech": "noun"
+    },
+    "quantitative": {
+        "Definition": "the describing or measuring of quantity.",
+        "Parts of Speech": "adjective"
+    },
+    "radiation": {
+        "Definition": "energy that is radiated or transmitted in the form of rays, waves or particles.",
+        "Parts of Speech": "noun"
+    },
+    "randomize": {
+        "Definition": "to arrange in a random order",
+        "Parts of Speech": "verb"
+    },
+    "randomly": {
+        "Definition": "with no pattern or clear purpose; by chance",
+        "Parts of Speech": "adverb"
+    },
+    "rational": {
+        "Definition": "sensible; based on facts",
+        "Parts of Speech": "adjective"
+    },
+    "rationality": {
+        "Definition": "being able to think clearly",
+        "Parts of Speech": "noun"
+    },
+    "reconstruct": {
+        "Definition": "to rebuild something after it has been destroyed",
+        "Parts of Speech": "verb"
+    },
+    "regime": {
+        "Definition": "a system of management; a form of government",
+        "Parts of Speech": "noun"
+    },
+    "reinforce": {
+        "Definition": "to strengthen",
+        "Parts of Speech": "verb"
+    },
+    "rejection": {
+        "Definition": "the act of refusing to consider or believe something",
+        "Parts of Speech": "noun"
+    },
+    "render": {
+        "Definition": "to cause someone or something to behave in a particular way, or to enter into a particular condition",
+        "Parts of Speech": "verb"
+    },
+    "reproduce": {
+        "Definition": "to make a copy of something",
+        "Parts of Speech": "verb"
+    },
+    "reproduction": {
+        "Definition": "the process that produces the next generation",
+        "Parts of Speech": "noun"
+    },
+    "republic": {
+        "Definition": "a country governed by elected representatives",
+        "Parts of Speech": "noun"
+    },
+    "resemble": {
+        "Definition": "to be similar to someone or something in looks or manner",
+        "Parts of Speech": "verb"
+    },
+    "revolutionary": {
+        "Definition": "a significant change in something",
+        "Parts of Speech": "adjective"
+    },
+    "rhythm": {
+        "Definition": "a pattern of sound and beats in music",
+        "Parts of Speech": "noun"
+    },
+    "ritual": {
+        "Definition": "performed as part of a formal ceremony",
+        "Parts of Speech": "noun"
+    },
+    "scatter": {
+        "Definition": "to make things separate and go in different directions",
+        "Parts of Speech": "verb"
+    },
+    "sensible": {
+        "Definition": "having the ability to judge something reasonably",
+        "Parts of Speech": "adjective"
+    },
+    "sensitivity": {
+        "Definition": "being sensitive; in physiology: the ability of an organism or part of an organism to react to stimuli; in electronics: the ability of a radio device to react to incoming signals",
+        "Parts of Speech": "noun"
+    },
+    "shortly": {
+        "Definition": "quickly; soon",
+        "Parts of Speech": "adverb"
+    },
+    "simultaneously": {
+        "Definition": "at the same time as",
+        "Parts of Speech": "adverb"
+    },
+    "sin": {
+        "Definition": "a bad act; to do something bad",
+        "Parts of Speech": "noun"
+    },
+    "sophisticate": {
+        "Definition": "to make more complex or refined",
+        "Parts of Speech": "verb"
+    },
+    "sponsorship": {
+        "Definition": "money given to a student to pay for education",
+        "Parts of Speech": "noun"
+    },
+    "statistical": {
+        "Definition": "about statistics",
+        "Parts of Speech": "adjective"
+    },
+    "statistically": {
+        "Definition": "with respect to statistics",
+        "Parts of Speech": "adverb"
+    },
+    "statistics": {
+        "Definition": "a type of mathematics that provide specific information or prove something",
+        "Parts of Speech": "noun - plural"
+    },
+    "strategic": {
+        "Definition": "concerned with strategy; well thought out",
+        "Parts of Speech": "adjective"
+    },
+    "strictly": {
+        "Definition": "restricted to something",
+        "Parts of Speech": "adverb"
+    },
+    "substitution": {
+        "Definition": "a person or thing acting or serving in place of another; to put (a person or thing) in the place of another.",
+        "Parts of Speech": "noun"
+    },
+    "subtle": {
+        "Definition": "difficult to notice, understand, or see",
+        "Parts of Speech": "adjective"
+    },
+    "sufficiently": {
+        "Definition": "to a degree great enough to do something",
+        "Parts of Speech": "adverb"
+    },
+    "suicide": {
+        "Definition": "the act of purposely killing yourself because you no longer wish to live",
+        "Parts of Speech": "noun"
+    },
+    "superior": {
+        "Definition": "better; higher quality",
+        "Parts of Speech": "noun"
+    },
+    "sustainable": {
+        "Definition": "capable of continuing for a long time at the same level; does not damage the environment",
+        "Parts of Speech": "adjective"
+    },
+    "swell": {
+        "Definition": "to become larger than normal, often because of injury",
+        "Parts of Speech": "verb"
+    },
+    "symbolic": {
+        "Definition": "representing a larger quality",
+        "Parts of Speech": "adjective"
+    },
+    "technically": {
+        "Definition": "in an exact and particular manner",
+        "Parts of Speech": "adverb"
+    },
+    "theorist": {
+        "Definition": "a person who forms new ideas",
+        "Parts of Speech": "noun"
+    },
+    "thereby": {
+        "Definition": "by that means; because of that",
+        "Parts of Speech": "adverb"
+    },
+    "ton": {
+        "Definition": "a unit of weight equal to 907 kilograms",
+        "Parts of Speech": "noun"
+    },
+    "transaction": {
+        "Definition": "an exchange; in business this usually involves money",
+        "Parts of Speech": "noun"
+    },
+    "transformation": {
+        "Definition": "a complete change in shape or form of something",
+        "Parts of Speech": "noun"
+    },
+    "translation": {
+        "Definition": "changing from one form to another. e.g. changing from one language to another",
+        "Parts of Speech": "noun"
+    },
+    "transmission": {
+        "Definition": "an electronic signal that has been sent by radio waves; a force that has been transferred from one machine to another",
+        "Parts of Speech": "noun"
+    },
+    "transmit": {
+        "Definition": "to broadcast by using electrical signals to a radio or TV",
+        "Parts of Speech": "verb"
+    },
+    "treaty": {
+        "Definition": "an agreement between nations",
+        "Parts of Speech": "noun"
+    },
+    "tremendous": {
+        "Definition": "having great size, excellence, or power",
+        "Parts of Speech": "adjective"
+    },
+    "tribe": {
+        "Definition": "a racial group united by language, religion and customs",
+        "Parts of Speech": "noun"
+    },
+    "ultimate": {
+        "Definition": "happening or coming at the end of process, final",
+        "Parts of Speech": "adjective"
+    },
+    "unity": {
+        "Definition": "being in full agreement; being joined together",
+        "Parts of Speech": "noun"
+    },
+    "utility": {
+        "Definition": "being useful; a public service such as gas, water, or electricity that is used by everyone",
+        "Parts of Speech": "noun"
+    },
+    "vague": {
+        "Definition": "not clearly stated",
+        "Parts of Speech": "adjective"
+    },
+    "valid": {
+        "Definition": "sound; just; well-founded",
+        "Parts of Speech": "adjective"
+    },
+    "validity": {
+        "Definition": "how true something is; in statistics: the ability of a test to measure what it is intended to measure.",
+        "Parts of Speech": "noun"
+    },
+    "virtue": {
+        "Definition": "a good quality",
+        "Parts of Speech": "noun"
+    },
+    "weave": {
+        "Definition": "to make something by crossing threads over and under each other",
+        "Parts of Speech": "verb"
+    },
+    "activate": {
+        "Definition": "To make something start working",
+        "Parts of Speech": "verb"
+    },
+    "acute": {
+        "Definition": "strong; very serious or severe",
+        "Parts of Speech": "adjective"
+    },
+    "adjectiveacent": {
+        "Definition": "being close or near to a border, wall, or point",
+        "Parts of Speech": "adjective"
+    },
+    "adverberse": {
+        "Definition": "negative or harmful",
+        "Parts of Speech": "adjective"
+    },
+    "aesthetic": {
+        "Definition": "concerning the sense of artistic beauty",
+        "Parts of Speech": "adjective"
+    },
+    "aluminum": {
+        "Definition": "very light silvery-white metal used to make cans",
+        "Parts of Speech": "noun"
+    },
+    "ancestor": {
+        "Definition": "a person from your family that lived in the past",
+        "Parts of Speech": "noun"
+    },
+    "anthropology": {
+        "Definition": "the study of human origins and the development of society",
+        "Parts of Speech": "noun"
+    },
+    "array": {
+        "Definition": "a large group of people or things; a regular order or arrangement; in maths: a series of figures.",
+        "Parts of Speech": "noun"
+    },
+    "arrow": {
+        "Definition": "a symbol to give direction; a long piece of wood shot from a bow",
+        "Parts of Speech": "noun"
+    },
+    "articulate": {
+        "Definition": "to express something clearly using language",
+        "Parts of Speech": "verb"
+    },
+    "artificial": {
+        "Definition": "not made by people; not created by nature",
+        "Parts of Speech": "adjective"
+    },
+    "auction": {
+        "Definition": "To sell to a person offering the highest price",
+        "Parts of Speech": "verb"
+    },
+    "audio": {
+        "Definition": "concerning sound",
+        "Parts of Speech": "adjective"
+    },
+    "autonomy": {
+        "Definition": "the power to make independent decisions",
+        "Parts of Speech": "noun"
+    },
+    "barrel": {
+        "Definition": "a round container with curved sides and flat ends",
+        "Parts of Speech": "noun"
+    },
+    "basin": {
+        "Definition": "a sink; a place in a bathroom to wash your face",
+        "Parts of Speech": "noun"
+    },
+    "biologist": {
+        "Definition": "a scientist who studies living things",
+        "Parts of Speech": "noun"
+    },
+    "biology": {
+        "Definition": "the study of living things",
+        "Parts of Speech": "noun"
+    },
+    "bizarre": {
+        "Definition": "odd or strange",
+        "Parts of Speech": "adjective"
+    },
+    "bonus": {
+        "Definition": "extra money for achieving/exceeding target",
+        "Parts of Speech": "noun - plural"
+    },
+    "bubble": {
+        "Definition": "a small ball of air inside of a liquid",
+        "Parts of Speech": "noun"
+    },
+    "bulk": {
+        "Definition": "big size; largeness; heaviness",
+        "Parts of Speech": "noun"
+    },
+    "bullet": {
+        "Definition": "metal object fired from a gun",
+        "Parts of Speech": "noun"
+    },
+    "bundle": {
+        "Definition": "a group of things that are tied together",
+        "Parts of Speech": "noun"
+    },
+    "calcium": {
+        "Definition": "a substance important for human and animal health, particularly for making bones and teeth",
+        "Parts of Speech": "noun"
+    },
+    "campus": {
+        "Definition": "the site of an institution, such as a university campus",
+        "Parts of Speech": "noun - plural"
+    },
+    "capitalism": {
+        "Definition": "economic system based on private ownership of money",
+        "Parts of Speech": "noun"
+    },
+    "capitalist": {
+        "Definition": "one believing in private ownership of money",
+        "Parts of Speech": "noun"
+    },
+    "censor": {
+        "Definition": "to remove parts of a book, film or letter for moral, religious, or political reasons",
+        "Parts of Speech": "noun"
+    },
+    "chemistry": {
+        "Definition": "the study of the structure of substances",
+        "Parts of Speech": "noun"
+    },
+    "chronic": {
+        "Definition": "over a long time; serious",
+        "Parts of Speech": "adjective"
+    },
+    "chunk": {
+        "Definition": "a large bit of something; thick lump",
+        "Parts of Speech": "noun"
+    },
+    "cinema": {
+        "Definition": "a place for showing movies",
+        "Parts of Speech": "noun"
+    },
+    "classification": {
+        "Definition": "putting similar items into groups or sets",
+        "Parts of Speech": "noun"
+    },
+    "classify": {
+        "Definition": "To arrange things into groups of similar items",
+        "Parts of Speech": "verb"
+    },
+    "clay": {
+        "Definition": "heavy, sticky earth used to make pottery",
+        "Parts of Speech": "noun"
+    },
+    "clone": {
+        "Definition": "to make an exact copy of a living thing",
+        "Parts of Speech": "verb"
+    },
+    "closure": {
+        "Definition": "the act of closing something",
+        "Parts of Speech": "noun"
+    },
+    "cognitive": {
+        "Definition": "the process of knowing and remembering",
+        "Parts of Speech": "adjective"
+    },
+    "coherent": {
+        "Definition": "(of language/ideas) logical and well-organized",
+        "Parts of Speech": "adjective"
+    },
+    "commodity": {
+        "Definition": "Something useful or valuable, usually for sale",
+        "Parts of Speech": "noun"
+    },
+    "compact": {
+        "Definition": "packed together; closely united; small",
+        "Parts of Speech": "adjective"
+    },
+    "comparative": {
+        "Definition": "expressing a difference in degree",
+        "Parts of Speech": "adjective"
+    },
+    "competence": {
+        "Definition": "ability to do something in a fully satisfactory way",
+        "Parts of Speech": "noun"
+    },
+    "complement": {
+        "Definition": "something needed to complete or make perfect",
+        "Parts of Speech": "noun"
+    },
+    "comply": {
+        "Definition": "to act in agreement with another's wishes; to obey a rule",
+        "Parts of Speech": "verb"
+    },
+    "comprehension": {
+        "Definition": "ability to understand",
+        "Parts of Speech": "noun"
+    },
+    "configuration": {
+        "Definition": "a shape or outline; a method of arrangement",
+        "Parts of Speech": "noun"
+    },
+    "consensus": {
+        "Definition": "a decision that is shared by most of the members of a group",
+        "Parts of Speech": "noun - plural"
+    },
+    "contrary": {
+        "Definition": "different; opposite",
+        "Parts of Speech": "adjective"
+    },
+    "cord": {
+        "Definition": "a long, strong material, thicker than string but not as thick as rope; an electrical wire",
+        "Parts of Speech": "noun"
+    },
+    "credibility": {
+        "Definition": "quality of being believable or deserving of trust",
+        "Parts of Speech": "noun"
+    },
+    "critique": {
+        "Definition": "a review of the quality of a work",
+        "Parts of Speech": "noun"
+    },
+    "crude": {
+        "Definition": "basic or made without skill, such as a crude drawing",
+        "Parts of Speech": "adjective"
+    },
+    "deadline": {
+        "Definition": "a date or time before which something must be done",
+        "Parts of Speech": "noun"
+    },
+    "decay": {
+        "Definition": "to be slowly broken down by natural processes",
+        "Parts of Speech": "verb"
+    },
+    "defect": {
+        "Definition": "a problem; a fault",
+        "Parts of Speech": "noun"
+    },
+    "deficiency": {
+        "Definition": "without something that is necessary",
+        "Parts of Speech": "noun"
+    },
+    "dependence": {
+        "Definition": "relying on someone for (financial) support",
+        "Parts of Speech": "noun"
+    },
+    "destination": {
+        "Definition": "the place one is traveling to",
+        "Parts of Speech": "noun"
+    },
+    "diagnose": {
+        "Definition": "to determine the cause of something, e.g. an illness",
+        "Parts of Speech": "verb"
+    },
+    "diagnosis": {
+        "Definition": "a judgment by a doctor about a person’s illness",
+        "Parts of Speech": "noun - plural"
+    },
+    "diagram": {
+        "Definition": "a drawing intended to explain how something works",
+        "Parts of Speech": "noun"
+    },
+    "diameter": {
+        "Definition": "the distance across the center of an object",
+        "Parts of Speech": "noun"
+    },
+    "diary": {
+        "Definition": "blank book in which you write what you did each day",
+        "Parts of Speech": "noun"
+    },
+    "dictionary": {
+        "Definition": "a book with the spellings and meanings of many words",
+        "Parts of Speech": "noun"
+    },
+    "differentiate": {
+        "Definition": "to see or show a difference between things",
+        "Parts of Speech": "verb"
+    },
+    "differentiation": {
+        "Definition": "a discrimination between things as different and distinct",
+        "Parts of Speech": "noun"
+    },
+    "dilemma": {
+        "Definition": "a position in which a person must make difficult choices",
+        "Parts of Speech": "noun"
+    },
+    "dioxide": {
+        "Definition": "an oxide containing two oxides per molecule",
+        "Parts of Speech": "noun"
+    },
+    "disadverbantage": {
+        "Definition": "a negative point; a downside; difficulty",
+        "Parts of Speech": "noun"
+    },
+    "displacement": {
+        "Definition": "the act of taking the place of something or someone else",
+        "Parts of Speech": "noun"
+    },
+    "dissolve": {
+        "Definition": "to melt into a liquid so that a substance mixes with the liquid itself",
+        "Parts of Speech": "verb"
+    },
+    "domain": {
+        "Definition": "a field of action, thought or influence; an area of knowledge",
+        "Parts of Speech": "noun"
+    },
+    "donor": {
+        "Definition": "a person or group that gives gifts or money to help support an organization or cause",
+        "Parts of Speech": "noun"
+    },
+    "duration": {
+        "Definition": "the length of time that something lasts",
+        "Parts of Speech": "noun"
+    },
+    "dynamic": {
+        "Definition": "always active or changing; in physics: a force related to motion",
+        "Parts of Speech": "adjective"
+    },
+    "ecological": {
+        "Definition": "concerning the environment, plants, or animals",
+        "Parts of Speech": "adjective"
+    },
+    "electron": {
+        "Definition": "a negatively charged particle",
+        "Parts of Speech": "noun"
+    },
+    "elementary": {
+        "Definition": "basic, simple, or essential",
+        "Parts of Speech": "adjective"
+    },
+    "emperor": {
+        "Definition": "man who rules an empire",
+        "Parts of Speech": "noun"
+    },
+    "empirical": {
+        "Definition": "based on observation or experiment",
+        "Parts of Speech": "adjective"
+    },
+    "entity": {
+        "Definition": "something that is real",
+        "Parts of Speech": "noun"
+    },
+    "essence": {
+        "Definition": "the most important part or quality of something",
+        "Parts of Speech": "noun"
+    },
+    "ethical": {
+        "Definition": "morally right or wrong",
+        "Parts of Speech": "adjective"
+    },
+    "ethics": {
+        "Definition": "the moral principles, standards, and rules for deciding what is right and wrong",
+        "Parts of Speech": "noun - plural"
+    },
+    "exit": {
+        "Definition": "a door that you go through to leave a place",
+        "Parts of Speech": "noun"
+    },
+    "expertise": {
+        "Definition": "the special knowledge that an expert has",
+        "Parts of Speech": "noun"
+    },
+    "fever": {
+        "Definition": "a high body temperature",
+        "Parts of Speech": "noun"
+    },
+    "fluid": {
+        "Definition": "a material that can easily flow. e.g. water",
+        "Parts of Speech": "adjective"
+    },
+    "forum": {
+        "Definition": "meeting where people can openly discuss a subject",
+        "Parts of Speech": "noun"
+    },
+    "fossil": {
+        "Definition": "a plant or animal that has become rock after many thousands of years",
+        "Parts of Speech": "noun"
+    },
+    "fraction": {
+        "Definition": "a part of a whole",
+        "Parts of Speech": "noun"
+    },
+    "fracture": {
+        "Definition": "the result of breaking a hard material; a crack",
+        "Parts of Speech": "noun"
+    },
+    "fringe": {
+        "Definition": "the edge of something; such as the decorative edge on a piece of clothing",
+        "Parts of Speech": "noun"
+    },
+    "fusion": {
+        "Definition": "when different styles, ideas or designs combine to form something new; in physics: when atoms combine to produce nuclear energy",
+        "Parts of Speech": "noun"
+    },
+    "gauge": {
+        "Definition": "a tool used to measure things",
+        "Parts of Speech": "noun"
+    },
+    "goat": {
+        "Definition": "small animal with beard and horns",
+        "Parts of Speech": "noun"
+    },
+    "graph": {
+        "Definition": "image expressing numerical data in lines or shapes",
+        "Parts of Speech": "noun"
+    },
+    "grid": {
+        "Definition": "a metal structure with bars that is used to cover a hole",
+        "Parts of Speech": "noun"
+    },
+    "gut": {
+        "Definition": "the parts inside: a human body, animal body or a machine",
+        "Parts of Speech": "noun"
+    },
+    "habitat": {
+        "Definition": "the natural place, or type of place, where a plant or animal lives",
+        "Parts of Speech": "noun"
+    },
+    "harvest": {
+        "Definition": "the time of year to bring crops in from the fields",
+        "Parts of Speech": "noun"
+    },
+    "hierarchy": {
+        "Definition": "a system for organizing people or things according to their importance",
+        "Parts of Speech": "noun"
+    },
+    "horizon": {
+        "Definition": "the line where the earth or sea meets the sky",
+        "Parts of Speech": "noun"
+    },
+    "horizontal": {
+        "Definition": "flat or level",
+        "Parts of Speech": "adjective"
+    },
+    "hormone": {
+        "Definition": "a chemical produced by the body to control some function",
+        "Parts of Speech": "noun"
+    },
+    "hydrogen": {
+        "Definition": "the lightest of all chemical elements, has no smell or color",
+        "Parts of Speech": "noun"
+    },
+    "illusion": {
+        "Definition": "an image that seems real, but is not real",
+        "Parts of Speech": "noun"
+    },
+    "implicit": {
+        "Definition": "not stated directly",
+        "Parts of Speech": "adjective"
+    },
+    "impulse": {
+        "Definition": "a sudden desire to do something that is not planned",
+        "Parts of Speech": "noun"
+    },
+    "incidence": {
+        "Definition": "the rate that something happens",
+        "Parts of Speech": "noun"
+    },
+    "incline": {
+        "Definition": "a slope or surface that rises uphill",
+        "Parts of Speech": "noun"
+    },
+    "inclusion": {
+        "Definition": "act of including; person/thing that is included",
+        "Parts of Speech": "noun"
+    },
+    "indifference": {
+        "Definition": "a lack of enthusiasm or interest in things; seeming not to care",
+        "Parts of Speech": "noun"
+    },
+    "indigenous": {
+        "Definition": "living or growing naturally in an area, not brought from somewhere else",
+        "Parts of Speech": "adjective"
+    },
+    "indirect": {
+        "Definition": "having a path that is not straight or direct",
+        "Parts of Speech": "adjective"
+    },
+    "induce": {
+        "Definition": "to cause, to persuade",
+        "Parts of Speech": "verb"
+    },
+    "inference": {
+        "Definition": "an opinion that you form based on information you already have",
+        "Parts of Speech": "noun"
+    },
+    "infinite": {
+        "Definition": "without an end",
+        "Parts of Speech": "adjective"
+    },
+    "informal": {
+        "Definition": "not official; not done by the rules",
+        "Parts of Speech": "adjective"
+    },
+    "inhibit": {
+        "Definition": "to make it difficult for a process to start or continue in a normal way",
+        "Parts of Speech": "verb"
+    },
+    "inhibition": {
+        "Definition": "the process whereby nerves can retard or prevent the functioning of an organ; the act of blocking or holding back",
+        "Parts of Speech": "noun"
+    },
+    "insect": {
+        "Definition": "a small animal with 6 legs, such as a bee or ant",
+        "Parts of Speech": "noun"
+    },
+    "integral": {
+        "Definition": "part of something",
+        "Parts of Speech": "adjective"
+    },
+    "interface": {
+        "Definition": "a shared boundary between two persons or systems through which information is communicated.",
+        "Parts of Speech": "noun"
+    },
+    "interval": {
+        "Definition": "the distance between two points, numbers or times",
+        "Parts of Speech": "noun"
+    },
+    "invade": {
+        "Definition": "to enter a place with an aim of taking control of it",
+        "Parts of Speech": "verb"
+    },
+    "jazz": {
+        "Definition": "a type of American music known for its energetic beat and parts that musicians make up as they go along",
+        "Parts of Speech": "noun"
+    },
+    "leaf": {
+        "Definition": "the green part of a tree or plant",
+        "Parts of Speech": "noun"
+    },
+    "leisure": {
+        "Definition": "time when you have no work to do and can relax",
+        "Parts of Speech": "noun"
+    },
+    "lever": {
+        "Definition": "a handle that one pulls to operate a machine",
+        "Parts of Speech": "noun"
+    },
+    "likewise": {
+        "Definition": "in the same way, in addition to",
+        "Parts of Speech": "adjective"
+    },
+    "limb": {
+        "Definition": "leg, arm or wing",
+        "Parts of Speech": "noun"
+    },
+    "linear": {
+        "Definition": "made of lines",
+        "Parts of Speech": "adjective"
+    },
+    "linguistic": {
+        "Definition": "belonging to language",
+        "Parts of Speech": "adjective"
+    },
+    "linguistics": {
+        "Definition": "the study of human languages",
+        "Parts of Speech": "noun - plural"
+    },
+    "liver": {
+        "Definition": "a large organ in the body that helps to absorb food and clean the blood",
+        "Parts of Speech": "noun"
+    },
+    "loop": {
+        "Definition": "a round shape",
+        "Parts of Speech": "noun"
+    },
+    "lung": {
+        "Definition": "an organ used to breathe",
+        "Parts of Speech": "noun"
+    },
+    "magnitude": {
+        "Definition": "size or importance",
+        "Parts of Speech": "noun"
+    },
+    "manuscript": {
+        "Definition": "a document, a piece of writing",
+        "Parts of Speech": "noun"
+    },
+    "marble": {
+        "Definition": "a kind of stone; metamorphosed limestone",
+        "Parts of Speech": "noun"
+    },
+    "matrix": {
+        "Definition": "a substance, situation, or environment in which something has its origin - in math: an arrangement of numbers in rows and columns",
+        "Parts of Speech": "noun"
+    },
+    "maximize": {
+        "Definition": "to increase, or become as large or great as possible",
+        "Parts of Speech": "verb"
+    },
+    "mediate": {
+        "Definition": "to bring about an agreement between persons or groups, act as a helper",
+        "Parts of Speech": "verb"
+    },
+    "metaphor": {
+        "Definition": "a figure of speech based on analogy",
+        "Parts of Speech": "noun"
+    },
+    "mineral": {
+        "Definition": "a substance naturally formed in the ground",
+        "Parts of Speech": "noun"
+    },
+    "minimal": {
+        "Definition": "the smallest possible",
+        "Parts of Speech": "adjective"
+    },
+    "minimize": {
+        "Definition": "to make something as small as possible",
+        "Parts of Speech": "verb"
+    },
+    "momentum": {
+        "Definition": "speed or force that is gained when something moves",
+        "Parts of Speech": "noun"
+    },
+    "monetary": {
+        "Definition": "concerning money, often referring to a country's economic system",
+        "Parts of Speech": "adjective"
+    },
+    "monopoly": {
+        "Definition": "complete control of the market for a service or product",
+        "Parts of Speech": "adverb"
+    },
+    "multiply": {
+        "Definition": "to increase greatly in number",
+        "Parts of Speech": "verb"
+    },
+    "necessity": {
+        "Definition": "something that you must have or do",
+        "Parts of Speech": "noun"
+    },
+    "noble": {
+        "Definition": "having personal qualities that people admire",
+        "Parts of Speech": "adjective"
+    },
+    "nonetheless": {
+        "Definition": "in spite of that, nevertheless",
+        "Parts of Speech": "adjective"
+    },
+    "nonlinear": {
+        "Definition": "not in a line",
+        "Parts of Speech": "adjective"
+    },
+    "norm": {
+        "Definition": "an established standard of performance or behavior",
+        "Parts of Speech": "noun"
+    },
+    "obscure": {
+        "Definition": "not famous, unknown by most people; not easy to understand",
+        "Parts of Speech": "adjective"
+    },
+    "optical": {
+        "Definition": "concerning vision or helping people see",
+        "Parts of Speech": "adjective"
+    },
+    "organism": {
+        "Definition": "living thing, often one that is small",
+        "Parts of Speech": "noun"
+    },
+    "outlet": {
+        "Definition": "a way for something to be released; a pipe, hole or wire through which gas, liquid or electricity flows",
+        "Parts of Speech": "noun"
+    },
+    "overhead": {
+        "Definition": "located above your head or in the sky",
+        "Parts of Speech": "adjective"
+    },
+    "overlap": {
+        "Definition": "To lie over or cover a part of something else",
+        "Parts of Speech": "verb"
+    },
+    "oxygen": {
+        "Definition": "a gas in the air that has no smell or taste, and that all animals need to breathe",
+        "Parts of Speech": "noun"
+    },
+    "paradox": {
+        "Definition": "a saying that seems contrary to popular belief, but which may be true",
+        "Parts of Speech": "noun"
+    },
+    "parameter": {
+        "Definition": "a characteristic or constant factor, a limit.",
+        "Parts of Speech": "noun"
+    },
+    "particle": {
+        "Definition": "a very small piece of something",
+        "Parts of Speech": "noun"
+    },
+    "peripheral": {
+        "Definition": "not connected to the main or important part of something",
+        "Parts of Speech": "adjective"
+    },
+    "physician": {
+        "Definition": "a medical doctor",
+        "Parts of Speech": "noun"
+    },
+    "physics": {
+        "Definition": "the study of heat, light, and other forms of energy and how they affect objects",
+        "Parts of Speech": "noun - plural"
+    },
+    "plural": {
+        "Definition": "refers to more than one person or thing",
+        "Parts of Speech": "adjective"
+    },
+    "polar": {
+        "Definition": "concerning the areas near the North or South poles",
+        "Parts of Speech": "adjective"
+    },
+    "portfolio": {
+        "Definition": "a list of the financial assets held by an individual or other financial institution",
+        "Parts of Speech": "noun"
+    },
+    "portray": {
+        "Definition": "to represent something or someone in a particular way, often for artistic purposes",
+        "Parts of Speech": "verb"
+    },
+    "portrayal": {
+        "Definition": "the way that something or someone is represented in a book, film, picture or other context",
+        "Parts of Speech": "adjective"
+    },
+    "poster": {
+        "Definition": "a large, printed notice or picture",
+        "Parts of Speech": "noun"
+    },
+    "predator": {
+        "Definition": "an animal that feeds itself by killing and eating other animals",
+        "Parts of Speech": "noun"
+    },
+    "predominantly": {
+        "Definition": "in a way that is larger, greater or has more power than others",
+        "Parts of Speech": "adverb"
+    },
+    "prejudice": {
+        "Definition": "an unreasonable hatred for a group of people, usually a race or a religion",
+        "Parts of Speech": "noun"
+    },
+    "preliminary": {
+        "Definition": "before",
+        "Parts of Speech": "adjective"
+    },
+    "prevalence": {
+        "Definition": "widespread, common, general",
+        "Parts of Speech": "noun"
+    },
+    "prey": {
+        "Definition": "an animal that is killed and eaten by another animal",
+        "Parts of Speech": "noun"
+    },
+    "primitive": {
+        "Definition": "being of an early time period in the past",
+        "Parts of Speech": "adjective"
+    },
+    "proposition": {
+        "Definition": "an idea; a suggestion",
+        "Parts of Speech": "noun"
+    },
+    "protocol": {
+        "Definition": "a set of rules; computers use protocol so they can exchange information",
+        "Parts of Speech": "noun"
+    },
+    "pulse": {
+        "Definition": "beat of the heart",
+        "Parts of Speech": "noun"
+    },
+    "questionnaire": {
+        "Definition": "form used to get information from many people",
+        "Parts of Speech": "noun"
+    },
+    "rack": {
+        "Definition": "a frame, stand or hook on which things are set or hung",
+        "Parts of Speech": "noun"
+    },
+    "realm": {
+        "Definition": "the area ruled by a king or queen",
+        "Parts of Speech": "noun"
+    },
+    "regression": {
+        "Definition": "going back; in statistics: a type of correlational procedure that focuses on predicting the values of an outcome based on its correlation with another variable.",
+        "Parts of Speech": "noun"
+    },
+    "rehabilitation": {
+        "Definition": "a scheme to help someone who has been ill or in prison to return to a healthy, independent, and useful life",
+        "Parts of Speech": "noun"
+    },
+    "residual": {
+        "Definition": "concerning the last little bit, after the rest has gone or ended",
+        "Parts of Speech": "adjective"
+    },
+    "residue": {
+        "Definition": "left over after part or most is taken away",
+        "Parts of Speech": "noun"
+    },
+    "retrieve": {
+        "Definition": "to find and get something from somewhere",
+        "Parts of Speech": "verb"
+    },
+    "rhetoric": {
+        "Definition": "the study of public speaking or writing techniques",
+        "Parts of Speech": "noun"
+    },
+    "robot": {
+        "Definition": "a mechanical creature that acts like a human",
+        "Parts of Speech": "noun"
+    },
+    "rotate": {
+        "Definition": "to move or turn around a central point",
+        "Parts of Speech": "verb"
+    },
+    "rotation": {
+        "Definition": "movement in a circle around a central point",
+        "Parts of Speech": "noun"
+    },
+    "scenario": {
+        "Definition": "an outline; an imagined sequence of events in a plan or project",
+        "Parts of Speech": "noun"
+    },
+    "scholarship": {
+        "Definition": "money given to a student to pay for education",
+        "Parts of Speech": "noun"
+    },
+    "seminar": {
+        "Definition": "a small class at a college or university",
+        "Parts of Speech": "noun"
+    },
+    "sensation": {
+        "Definition": "a feeling that is experienced by the body, usually through the sense of touch",
+        "Parts of Speech": "noun"
+    },
+    "shallow": {
+        "Definition": "not deep; a small distance between the lowest and highest point",
+        "Parts of Speech": "adjective"
+    },
+    "simulate": {
+        "Definition": "to look, feel, or behave like something; to copy",
+        "Parts of Speech": "verb"
+    },
+    "simulation": {
+        "Definition": "a copy; a method that is used to study and analyze the characteristics of the real world",
+        "Parts of Speech": "noun"
+    },
+    "sketch": {
+        "Definition": "a drawing made quickly that lacks detail",
+        "Parts of Speech": "noun"
+    },
+    "skip": {
+        "Definition": "to not do; to jump",
+        "Parts of Speech": "verb"
+    },
+    "slot": {
+        "Definition": "a long narrow opening, into which you put or fit something",
+        "Parts of Speech": "noun"
+    },
+    "sodium": {
+        "Definition": "a soft, white chemical element",
+        "Parts of Speech": "noun"
+    },
+    "span": {
+        "Definition": "the amount of time something lasts",
+        "Parts of Speech": "verb"
+    },
+    "spatial": {
+        "Definition": "about space",
+        "Parts of Speech": "adjective"
+    },
+    "specimen": {
+        "Definition": "an example of something, especially of a plant or an animal; a small amount of blood or urine",
+        "Parts of Speech": "noun - plural"
+    },
+    "spectrum": {
+        "Definition": "the wavelengths of colors from red to violet",
+        "Parts of Speech": "noun"
+    },
+    "sphere": {
+        "Definition": "a round 3D object. e.g. a ball",
+        "Parts of Speech": "noun"
+    },
+    "spontaneous": {
+        "Definition": "something that happens on its own, seemingly without cause",
+        "Parts of Speech": "adjective"
+    },
+    "stack": {
+        "Definition": "To put one thing on top of another e.g. books",
+        "Parts of Speech": "verb"
+    },
+    "stadium": {
+        "Definition": "very large building with a sports field and rows of seats all around that is used for various events",
+        "Parts of Speech": "noun"
+    },
+    "stance": {
+        "Definition": "a position or opinion that is stated to the public",
+        "Parts of Speech": "noun"
+    },
+    "stereotype": {
+        "Definition": "an idea or belief about what someone or something is like, often unfair or untrue",
+        "Parts of Speech": "noun"
+    },
+    "stimulus": {
+        "Definition": "something that makes a change.",
+        "Parts of Speech": "noun - plural"
+    },
+    "straightforward": {
+        "Definition": "easy to do or understand; not complicated",
+        "Parts of Speech": "adjective"
+    },
+    "strand": {
+        "Definition": "something that is plaited or twisted as a rope-like length",
+        "Parts of Speech": "noun"
+    },
+    "stripe": {
+        "Definition": "a long, thin part of something which is a different color from the parts beside it",
+        "Parts of Speech": "noun"
+    },
+    "subjective": {
+        "Definition": "the use of personal feelings and opinions, rather than facts",
+        "Parts of Speech": "adjective"
+    },
+    "surgeon": {
+        "Definition": "a doctor who performs surgery",
+        "Parts of Speech": "noun"
+    },
+    "surplus": {
+        "Definition": "extra; more than is needed",
+        "Parts of Speech": "adjective"
+    },
+    "syndrome": {
+        "Definition": "a group of signs and symptoms that accompany a disease",
+        "Parts of Speech": "noun"
+    },
+    "synthesis": {
+        "Definition": "building something complex from simple parts",
+        "Parts of Speech": "noun - plural"
+    },
+    "terminal": {
+        "Definition": "the end of something",
+        "Parts of Speech": "noun"
+    },
+    "thesis": {
+        "Definition": "a long essay; a position taken in an argument supported by a set of reasons",
+        "Parts of Speech": "noun"
+    },
+    "thread": {
+        "Definition": "a long, very thin, soft material used to join or make cloth",
+        "Parts of Speech": "noun"
+    },
+    "threshold": {
+        "Definition": "a level or point at which something would start or stop happening.",
+        "Parts of Speech": "noun"
+    },
+    "thumb": {
+        "Definition": "the short, thick finger on the side of your hand",
+        "Parts of Speech": "noun"
+    },
+    "toxic": {
+        "Definition": "poisonous; harmful",
+        "Parts of Speech": "adjective"
+    },
+    "trait": {
+        "Definition": "a characteristic",
+        "Parts of Speech": "noun"
+    },
+    "transcription": {
+        "Definition": "something written",
+        "Parts of Speech": "noun"
+    },
+    "transplant": {
+        "Definition": "a medical operation in which a new organ is placed inside a patient's body",
+        "Parts of Speech": "noun"
+    },
+    "trauma": {
+        "Definition": "a very severe or upsetting experience",
+        "Parts of Speech": "noun"
+    },
+    "triangle": {
+        "Definition": "a closed shape with three straight sides",
+        "Parts of Speech": "noun"
+    },
+    "tropical": {
+        "Definition": "hot and humid; near to the equator",
+        "Parts of Speech": "adjective"
+    },
+    "tumor": {
+        "Definition": "a mass of abnormal cells that develops when cancerous cells divide and grow uncontrollably",
+        "Parts of Speech": "noun"
+    },
+    "tutor": {
+        "Definition": "a teacher",
+        "Parts of Speech": "noun"
+    },
+    "undermine": {
+        "Definition": "to weaken or destroy something secretly and usually slowly",
+        "Parts of Speech": "verb"
+    },
+    "unify": {
+        "Definition": "to join or bring together",
+        "Parts of Speech": "verb"
+    },
+    "upward": {
+        "Definition": "moving toward a higher point or position",
+        "Parts of Speech": "adverb"
+    },
+    "utilize": {
+        "Definition": "to use something practically for a particular purpose",
+        "Parts of Speech": "verb"
+    },
+    "utterance": {
+        "Definition": "something that is said",
+        "Parts of Speech": "noun"
+    },
+    "vein": {
+        "Definition": "one of the little tubes that return blood from the body to the heart",
+        "Parts of Speech": "noun"
+    },
+    "verbal": {
+        "Definition": "using speech, rather than being written",
+        "Parts of Speech": "adjective"
+    },
+    "vertical": {
+        "Definition": "a line going up/down; not horizontal",
+        "Parts of Speech": "adjective"
+    },
+    "viable": {
+        "Definition": "able to be done; possible",
+        "Parts of Speech": "adjective"
+    },
+    "vitamin": {
+        "Definition": "a substance that is healthy for your body and can be found in foods or taken as a medicine",
+        "Parts of Speech": "noun"
+    },
+    "abdominal": {
+        "Definition": "Concerned with the abdomen or stomach",
+        "Parts of Speech": "adjective"
+    },
+    "aggregate": {
+        "Definition": "a sum total amount of something",
+        "Parts of Speech": "noun"
+    },
+    "algorithm": {
+        "Definition": "a step-by-step problem-solving feature",
+        "Parts of Speech": "noun"
+    },
+    "altitude": {
+        "Definition": "the height of something above sea level",
+        "Parts of Speech": "noun"
+    },
+    "analogy": {
+        "Definition": "comparison of things based on their similarity",
+        "Parts of Speech": "noun"
+    },
+    "antibiotic": {
+        "Definition": "concerning medicine that is used to fight certain diseases",
+        "Parts of Speech": "adjective"
+    },
+    "antibody": {
+        "Definition": "a defense provided by the body against disease",
+        "Parts of Speech": "noun"
+    },
+    "appendix": {
+        "Definition": "additional information at the end of a document",
+        "Parts of Speech": "noun"
+    },
+    "applause": {
+        "Definition": "the sound made by clapping a performance or speech",
+        "Parts of Speech": "noun"
+    },
+    "arbitrary": {
+        "Definition": "unsupported",
+        "Parts of Speech": "adjective"
+    },
+    "axis": {
+        "Definition": "a line about which a rotating body, such as the earth, turns.",
+        "Parts of Speech": "noun"
+    },
+    "bracket": {
+        "Definition": "a 90 degree piece of metal used to support a wall shelf",
+        "Parts of Speech": "noun"
+    },
+    "coefficient": {
+        "Definition": "a number multiplied by a variable in an algebraic expression.",
+        "Parts of Speech": "adjective"
+    },
+    "composite": {
+        "Definition": "made of more than one different part",
+        "Parts of Speech": "adjective"
+    },
+    "cone": {
+        "Definition": "a 3D shape with a circular base; a part of the eye",
+        "Parts of Speech": "noun"
+    },
+    "converge": {
+        "Definition": "to come together",
+        "Parts of Speech": "verb"
+    },
+    "convergence": {
+        "Definition": "coming together",
+        "Parts of Speech": "noun"
+    },
+    "cue": {
+        "Definition": "a word or action during a stage play to tell an actor to speak",
+        "Parts of Speech": "noun"
+    },
+    "cylinder": {
+        "Definition": "a shape or object with flat, circular ends and long, straight sides",
+        "Parts of Speech": "noun"
+    },
+    "degrade": {
+        "Definition": "to treat someone without respect; to reduce in amount or strength",
+        "Parts of Speech": "verb"
+    },
+    "delta": {
+        "Definition": "the place a river divides before entering a larger body of water",
+        "Parts of Speech": "noun"
+    },
+    "deviation": {
+        "Definition": "not standard or normal; in statistics: the difference between one of a set of values and some fixed value, usually the mean of the set.",
+        "Parts of Speech": "noun"
+    },
+    "diagnostic": {
+        "Definition": "to do with finding out the cause of a problem",
+        "Parts of Speech": "adjective"
+    },
+    "differential": {
+        "Definition": "difference; diversity",
+        "Parts of Speech": "adjective"
+    },
+    "diffusion": {
+        "Definition": "the movement of light in many directions",
+        "Parts of Speech": "noun"
+    },
+    "dilute": {
+        "Definition": "to mix; to reduce in strength, concentration, quality or purity",
+        "Parts of Speech": "verb"
+    },
+    "dominance": {
+        "Definition": "the state of being more powerful, successful, or important than others",
+        "Parts of Speech": "noun"
+    },
+    "dye": {
+        "Definition": "a liquid that colors hair or cloth",
+        "Parts of Speech": "noun"
+    },
+    "ecology": {
+        "Definition": "the study of plants, animals, people, and their environments",
+        "Parts of Speech": "noun"
+    },
+    "elastic": {
+        "Definition": "able to return to original shape or size after stretching",
+        "Parts of Speech": "adjective"
+    },
+    "elasticity": {
+        "Definition": "the ability to stretch easily and then quickly return to the original shape",
+        "Parts of Speech": "noun"
+    },
+    "embed": {
+        "Definition": "to place or set inside rock, etc",
+        "Parts of Speech": "verb"
+    },
+    "enzyme": {
+        "Definition": "a protein made by cells",
+        "Parts of Speech": "noun"
+    },
+    "epidemic": {
+        "Definition": "a disease affecting many people",
+        "Parts of Speech": "adjective"
+    },
+    "equilibrium": {
+        "Definition": "a state of balance",
+        "Parts of Speech": "noun"
+    },
+    "erase": {
+        "Definition": "to remove written information or information on a computer memory",
+        "Parts of Speech": "verb"
+    },
+    "fatigue": {
+        "Definition": "being very tired",
+        "Parts of Speech": "noun"
+    },
+    "fungus": {
+        "Definition": "a group of plants that grow on dead materials and have no flowers, e.g. mushrooms",
+        "Parts of Speech": "noun - plural"
+    },
+    "gram": {
+        "Definition": "a metric unit of weight",
+        "Parts of Speech": "noun"
+    },
+    "hawk": {
+        "Definition": "a large bird that gets its food by killing smaller birds and animals",
+        "Parts of Speech": "noun"
+    },
+    "incumbent": {
+        "Definition": "a person who holds a particular office or position",
+        "Parts of Speech": "noun"
+    },
+    "inferior": {
+        "Definition": "not as good as something else",
+        "Parts of Speech": "adjective"
+    },
+    "intermediate": {
+        "Definition": "between",
+        "Parts of Speech": "adjective"
+    },
+    "ion": {
+        "Definition": "a charged atom",
+        "Parts of Speech": "noun"
+    },
+    "kidney": {
+        "Definition": "an organ in the body that cleans the blood",
+        "Parts of Speech": "noun"
+    },
+    "lateral": {
+        "Definition": "on the side; moving sideways",
+        "Parts of Speech": "adjective"
+    },
+    "mall": {
+        "Definition": "a large shopping center with many individual stores",
+        "Parts of Speech": "noun"
+    },
+    "maternal": {
+        "Definition": "having to do with being a mother",
+        "Parts of Speech": "adjective"
+    },
+    "membrane": {
+        "Definition": "a thin covering of tissue.",
+        "Parts of Speech": "noun"
+    },
+    "messenger": {
+        "Definition": "someone who delivers a messages",
+        "Parts of Speech": "noun"
+    },
+    "motif": {
+        "Definition": "a distinctive form, shape or figure in a design",
+        "Parts of Speech": "noun"
+    },
+    "multinational": {
+        "Definition": "involving many countries",
+        "Parts of Speech": "adjective"
+    },
+    "mutation": {
+        "Definition": "a change; in genetics: any event that changes genetic structure",
+        "Parts of Speech": "noun"
+    },
+    "niche": {
+        "Definition": "a small area; a specialised business, job or activity",
+        "Parts of Speech": "noun"
+    },
+    "nitrogen": {
+        "Definition": "a colorless chemical element without a smell that forms most of the earth's atmosphere",
+        "Parts of Speech": "noun"
+    },
+    "node": {
+        "Definition": "an intersection or junction point in a network; a part on a plant where a new leaf grows",
+        "Parts of Speech": "noun"
+    },
+    "nominal": {
+        "Definition": "in name or thought but not reality",
+        "Parts of Speech": "adjective"
+    },
+    "nucleus": {
+        "Definition": "control center of a cell",
+        "Parts of Speech": "noun - plural"
+    },
+    "numerical": {
+        "Definition": "includes numbers",
+        "Parts of Speech": "adjective"
+    },
+    "nutrient": {
+        "Definition": "a chemical, food, that animals and plants need to live, develop, and be healthy",
+        "Parts of Speech": "noun"
+    },
+    "offspring": {
+        "Definition": "the child of a person or the young of a plant or animal",
+        "Parts of Speech": "noun"
+    },
+    "onset": {
+        "Definition": "the beginning",
+        "Parts of Speech": "noun"
+    },
+    "optimal": {
+        "Definition": "best",
+        "Parts of Speech": "adjective"
+    },
+    "orient": {
+        "Definition": "to focus your attention or efforts on something",
+        "Parts of Speech": "verb"
+    },
+    "overview": {
+        "Definition": "a description of the main features of something",
+        "Parts of Speech": "noun"
+    },
+    "par": {
+        "Definition": "the usual amount",
+        "Parts of Speech": "noun"
+    },
+    "paradigm": {
+        "Definition": "a set of ideas that are used for understanding or explaining something",
+        "Parts of Speech": "noun"
+    },
+    "parcel": {
+        "Definition": "a package or box wrapped in paper, a thing bigger than a letter that is sent in the mail",
+        "Parts of Speech": "noun"
+    },
+    "pest": {
+        "Definition": "an unwanted insect or small animal that eats plants or food supplies",
+        "Parts of Speech": "noun"
+    },
+    "pesticide": {
+        "Definition": "a chemical substance used to kill pests",
+        "Parts of Speech": "noun"
+    },
+    "plantation": {
+        "Definition": "a large area of plants, usually in a hot climate",
+        "Parts of Speech": "noun"
+    },
+    "plausible": {
+        "Definition": "being reasonable and possibly true",
+        "Parts of Speech": "adjective"
+    },
+    "pragmatic": {
+        "Definition": "dealing with problems in a reasonable, practical manner",
+        "Parts of Speech": "adjective"
+    },
+    "precipitate": {
+        "Definition": "to cause to happen",
+        "Parts of Speech": "verb"
+    },
+    "precipitation": {
+        "Definition": "rain, snow or hail",
+        "Parts of Speech": "noun"
+    },
+    "qualitative": {
+        "Definition": "concerning how good something is, rather than quantity",
+        "Parts of Speech": "adjective"
+    },
+    "quantum": {
+        "Definition": "the smallest unit or amount of energy",
+        "Parts of Speech": "noun"
+    },
+    "radar": {
+        "Definition": "a device that sends out radio waves for finding out the position of another object",
+        "Parts of Speech": "noun"
+    },
+    "replicate": {
+        "Definition": "to repeat something, such as an experiment, study or process",
+        "Parts of Speech": "verb"
+    },
+    "replication": {
+        "Definition": "the act of making copies",
+        "Parts of Speech": "noun"
+    },
+    "reservoir": {
+        "Definition": "a lake, usually artificial, where water is collected and stored for the use of a community or industry",
+        "Parts of Speech": "noun"
+    },
+    "scripture": {
+        "Definition": "the holy books of a particular religion",
+        "Parts of Speech": "noun"
+    },
+    "sediment": {
+        "Definition": "the material that settles to the bottom of a liquid",
+        "Parts of Speech": "noun"
+    },
+    "semantic": {
+        "Definition": "the different meanings of words",
+        "Parts of Speech": "adjective"
+    },
+    "shuttle": {
+        "Definition": "a vehicle that carries passengers or items between two places",
+        "Parts of Speech": "noun"
+    },
+    "singular": {
+        "Definition": "one",
+        "Parts of Speech": "adjective"
+    },
+    "slab": {
+        "Definition": "a thick, flat slice of something",
+        "Parts of Speech": "noun"
+    },
+    "slash": {
+        "Definition": "to cut violently",
+        "Parts of Speech": "noun"
+    },
+    "sniff": {
+        "Definition": "to smell by short intakes of air.",
+        "Parts of Speech": "verb"
+    },
+    "socialize": {
+        "Definition": "to teach people to behave in a way which is acceptable in their culture; to spend time with people",
+        "Parts of Speech": "verb"
+    },
+    "static": {
+        "Definition": "being unchangeable or unmovable",
+        "Parts of Speech": "adjective"
+    },
+    "surgical": {
+        "Definition": "concerning surgery",
+        "Parts of Speech": "adjective"
+    },
+    "susceptible": {
+        "Definition": "at risk of developing a certain illness or problem",
+        "Parts of Speech": "adjective"
+    },
+    "swap": {
+        "Definition": "to trade or exchange",
+        "Parts of Speech": "verb"
+    },
+    "synthetic": {
+        "Definition": "not natural; made from artificial materials",
+        "Parts of Speech": "adjective"
+    },
+    "temporal": {
+        "Definition": "concerning time",
+        "Parts of Speech": "adjective"
+    },
+    "thermal": {
+        "Definition": "with reference to some source of heat",
+        "Parts of Speech": "adjective"
+    },
+    "tolerance": {
+        "Definition": "a willingness to let people do, say or believe what they wish, without judging or challenging them",
+        "Parts of Speech": "noun"
+    },
+    "tract": {
+        "Definition": "a large stretch of land",
+        "Parts of Speech": "noun"
+    },
+    "trivial": {
+        "Definition": "unimportant",
+        "Parts of Speech": "adjective"
+    },
+    "turbulent": {
+        "Definition": "moving violently and unevenly",
+        "Parts of Speech": "adjective"
+    },
+    "undergraduate": {
+        "Definition": "a college student who is working toward his or her first degree",
+        "Parts of Speech": "noun"
+    },
+    "unintelligible": {
+        "Definition": "that cannot be understood",
+        "Parts of Speech": "adjective"
+    },
+    "urine": {
+        "Definition": "yellow liquid waste from the body",
+        "Parts of Speech": "noun"
+    },
+    "usage": {
+        "Definition": "the way something is used",
+        "Parts of Speech": "noun"
+    },
+    "valve": {
+        "Definition": "a device along a pipe that can either open and allow something to flow, or close and block it",
+        "Parts of Speech": "noun"
+    },
+    "vegetation": {
+        "Definition": "plants",
+        "Parts of Speech": "noun"
+    },
+    "velocity": {
+        "Definition": "speed in a given direction",
+        "Parts of Speech": "noun"
+    },
+    "vocabulary": {
+        "Definition": "the words that a person knows",
+        "Parts of Speech": "noun"
+    },
+    "wheat": {
+        "Definition": "a kind of grain that is used to make flour for bread",
+        "Parts of Speech": "noun"
+    },
+    "whereby": {
+        "Definition": "by which; by that thing",
+        "Parts of Speech": "adverb"
+    },
+    "antiquity": {
+        "Definition": "an ancient period; something made a long time ago",
+        "Parts of Speech": "noun"
+    },
+    "binary": {
+        "Definition": "having two parts; using only 2 numbers, 1 and 0",
+        "Parts of Speech": "adjective"
+    },
+    "chess": {
+        "Definition": "a game of strategy, for two players",
+        "Parts of Speech": "noun"
+    },
+    "chromosome": {
+        "Definition": "cell structures that carry the genetic material that is copied and passed to the next generation.",
+        "Parts of Speech": "noun"
+    },
+    "contour": {
+        "Definition": "the shape of the outside edge of something",
+        "Parts of Speech": "noun"
+    },
+    "coronary": {
+        "Definition": "concerning the heart",
+        "Parts of Speech": "adjective"
+    },
+    "corpus": {
+        "Definition": "a body; in linguistics: a body of words",
+        "Parts of Speech": "noun - plural"
+    },
+    "deceive": {
+        "Definition": "to make someone believe something that is not true",
+        "Parts of Speech": "verb"
+    },
+    "deflection": {
+        "Definition": "the action of making something move in a different direction",
+        "Parts of Speech": "noun"
+    },
+    "denote": {
+        "Definition": "be a name or symbol for",
+        "Parts of Speech": "verb"
+    },
+    "dialect": {
+        "Definition": "a way of speaking a language that is used only in a particular area or by a particular group",
+        "Parts of Speech": "noun"
+    },
+    "discrete": {
+        "Definition": "separate; composed of distinct parts",
+        "Parts of Speech": "adjective"
+    },
+    "encode": {
+        "Definition": "to change a message or information into code",
+        "Parts of Speech": "verb"
+    },
+    "epidemiology": {
+        "Definition": "the science of how diseases spread",
+        "Parts of Speech": "noun"
+    },
+    "facet": {
+        "Definition": "a part of something",
+        "Parts of Speech": "noun"
+    },
+    "fin": {
+        "Definition": "the flat, thin body parts of a fish that sticks out and helps guide it through water",
+        "Parts of Speech": "noun"
+    },
+    "finite": {
+        "Definition": "having limits; lasting for a limited time",
+        "Parts of Speech": "adjective"
+    },
+    "flux": {
+        "Definition": "a state of flow and change",
+        "Parts of Speech": "noun"
+    },
+    "friction": {
+        "Definition": "the act of sliding two objects against each other",
+        "Parts of Speech": "noun"
+    },
+    "hepatitis": {
+        "Definition": "a disease of the liver that causes inflammation, yellow skin and a fever",
+        "Parts of Speech": "noun"
+    },
+    "induction": {
+        "Definition": "bringing about, or causing",
+        "Parts of Speech": "noun"
+    },
+    "invert": {
+        "Definition": "to turn something upside down",
+        "Parts of Speech": "verb"
+    },
+    "irrigation": {
+        "Definition": "supplying land with water using pipes",
+        "Parts of Speech": "noun"
+    },
+    "liter": {
+        "Definition": "metric unit for measuring liquid or gas",
+        "Parts of Speech": "noun"
+    },
+    "locus": {
+        "Definition": "a place or location; in genetics: the location of a gene on a chromosome",
+        "Parts of Speech": "noun"
+    },
+    "mentor": {
+        "Definition": "an experienced or wise person who teaches or helps another person",
+        "Parts of Speech": "noun"
+    },
+    "mercury": {
+        "Definition": "a heavy, silver-white metal that is used in thermometers to measure temperature; a planet",
+        "Parts of Speech": "noun"
+    },
+    "metabolism": {
+        "Definition": "the chemical processes of the body in which food is converted to energy",
+        "Parts of Speech": "noun"
+    },
+    "mole": {
+        "Definition": "a small animal with dark fur that lives under the ground; a unit for measuring molecules",
+        "Parts of Speech": "noun"
+    },
+    "neuron": {
+        "Definition": "a nerve cell; the basic building block of the nervous system.",
+        "Parts of Speech": "noun"
+    },
+    "notation": {
+        "Definition": "a set of written signs or shapes that are used in music or mathematics",
+        "Parts of Speech": "noun"
+    },
+    "novice": {
+        "Definition": "a person with little or no experience in a particular activity, skill, or subject",
+        "Parts of Speech": "noun"
+    },
+    "onwards": {
+        "Definition": "forward",
+        "Parts of Speech": "adverb"
+    },
+    "oscillation": {
+        "Definition": "movement, from side to side at a steady speed; a frequent change in size, strength, or direction between two limits",
+        "Parts of Speech": "noun"
+    },
+    "partition": {
+        "Definition": "a wall, screen, or piece of glass used to separate one area from another",
+        "Parts of Speech": "noun"
+    },
+    "physiological": {
+        "Definition": "concerning how the body functions",
+        "Parts of Speech": "adjective"
+    },
+    "quiz": {
+        "Definition": "a game in which players answer questions on a specific topic",
+        "Parts of Speech": "noun"
+    },
+    "radius": {
+        "Definition": "a given area or a range around a certain point; a line from the center of a circle to its edge",
+        "Parts of Speech": "noun"
+    },
+    "receptor": {
+        "Definition": "a device that receives information; in physiology: a nerve ending that changes stimuli into impulses",
+        "Parts of Speech": "noun"
+    },
+    "repertoire": {
+        "Definition": "a collection of skills or accomplishments.",
+        "Parts of Speech": "noun"
+    },
+    "respiratory": {
+        "Definition": "to do with breathing",
+        "Parts of Speech": "adjective"
+    },
+    "scroll": {
+        "Definition": "a long rolled piece of paper with writing on it; to move up and down a computer screen",
+        "Parts of Speech": "noun"
+    },
+    "secrete": {
+        "Definition": "to produce a liquid",
+        "Parts of Speech": "verb"
+    },
+    "sensory": {
+        "Definition": "referring to the five senses (hearing, sight, smell, taste and touch)",
+        "Parts of Speech": "adjective"
+    },
+    "solvent": {
+        "Definition": "something that dissolves or can melt another substance",
+        "Parts of Speech": "noun"
+    },
+    "sperm": {
+        "Definition": "male sex cell",
+        "Parts of Speech": "noun"
+    },
+    "syllable": {
+        "Definition": "a unit of speech",
+        "Parts of Speech": "noun"
+    },
+    "terminology": {
+        "Definition": "specific words and expressions used in a particular field",
+        "Parts of Speech": "noun"
+    },
+    "transcribe": {
+        "Definition": "to write something spoken",
+        "Parts of Speech": "verb"
+    },
+    "vector": {
+        "Definition": "a quantity that has both size and direction.",
+        "Parts of Speech": "noun"
+    },
+    "yeast": {
+        "Definition": "a single-celled fungi used to make bread and beer",
+        "Parts of Speech": "noun"
+    },
+    "amino": {
+        "Definition": "a substance that combines to form the structure of proteins",
+        "Parts of Speech": "noun"
+    },
+    "artifact": {
+        "Definition": "object made by humans, e.g. ancient tool",
+        "Parts of Speech": "noun"
+    },
+    "bilingual": {
+        "Definition": "being able to speak two languages well",
+        "Parts of Speech": "adjective"
+    },
+    "chemotherapy": {
+        "Definition": "the treatment of diseases, such as cancer, using chemicals",
+        "Parts of Speech": "noun"
+    },
+    "confound": {
+        "Definition": "to confuse and greatly surprise someone, so that they are unable to explain a situation",
+        "Parts of Speech": "verb"
+    },
+    "dissection": {
+        "Definition": "the act or process of cutting something",
+        "Parts of Speech": "noun"
+    },
+    "dissertation": {
+        "Definition": "an in-depth paper submitted for a doctorate degree",
+        "Parts of Speech": "noun"
+    },
+    "entrant": {
+        "Definition": "a person who enters a contest",
+        "Parts of Speech": "noun"
+    },
+    "fetal": {
+        "Definition": "concerning a fetus, an unborn baby",
+        "Parts of Speech": "adjective"
+    },
+    "gradient": {
+        "Definition": "a measure of how steep something is",
+        "Parts of Speech": "noun"
+    },
+    "grammatical": {
+        "Definition": "concerning grammatical rules",
+        "Parts of Speech": "adjective"
+    },
+    "infinity": {
+        "Definition": "with out end; limitless",
+        "Parts of Speech": "noun"
+    },
+    "innate": {
+        "Definition": "present in a person or animal from the time of birth",
+        "Parts of Speech": "adjective"
+    },
+    "longitudinal": {
+        "Definition": "going from the top to the bottom of something",
+        "Parts of Speech": "adjective"
+    },
+    "marrow": {
+        "Definition": "a soft, fatty tissue inside bones",
+        "Parts of Speech": "noun"
+    },
+    "millimeter": {
+        "Definition": "1/1000th of a meter",
+        "Parts of Speech": "noun"
+    },
+    "morphological": {
+        "Definition": "the study of form and structure",
+        "Parts of Speech": "adjective"
+    },
+    "morphology": {
+        "Definition": "the study of the forms and structures of plants, animals and words",
+        "Parts of Speech": "noun"
+    },
+    "neural": {
+        "Definition": "about the nerves or nervous system",
+        "Parts of Speech": "adjective"
+    },
+    "NaN": {
+        "Definition": "having no impact",
+        "Parts of Speech": "adjective"
+    },
+    "optimum": {
+        "Definition": "the best or most desirable",
+        "Parts of Speech": "adjective"
+    },
+    "phenomenal": {
+        "Definition": "unusual, remarkable",
+        "Parts of Speech": "adjective"
+    },
+    "phosphate": {
+        "Definition": "a salt or compound used to help grown plants",
+        "Parts of Speech": "noun"
+    },
+    "potassium": {
+        "Definition": "a common, soft, silvery white metal that is usually used for farming or industrial purposes",
+        "Parts of Speech": "noun"
+    },
+    "primer": {
+        "Definition": "a book that covers the basics of a subject; a kind of paint",
+        "Parts of Speech": "noun"
+    },
+    "proton": {
+        "Definition": "a very small part of an atom that has a positive electrical charge",
+        "Parts of Speech": "noun"
+    },
+    "soluble": {
+        "Definition": "can be mixed with a liquid, e.g. salt is soluble in water",
+        "Parts of Speech": "adjective"
+    },
+    "substrate": {
+        "Definition": "a substance which a catalyst or enzyme has an effect on",
+        "Parts of Speech": "verb"
+    },
+    "subtract": {
+        "Definition": "to take away, e.g. 20 - 5 = 15",
+        "Parts of Speech": "verb"
+    },
+    "syllabus": {
+        "Definition": "the teaching schedule for a course in a school or university",
+        "Parts of Speech": "noun"
+    },
+    "trajectory": {
+        "Definition": "the path followed by an object moving through space",
+        "Parts of Speech": "noun"
+    },
+    "transparency": {
+        "Definition": "the amount you can see through something",
+        "Parts of Speech": "noun"
+    },
+    "vowel": {
+        "Definition": "a speech sound; a, e , i, o, u and sometimes y",
+        "Parts of Speech": "noun"
+    },
+    "watershed": {
+        "Definition": "a period of time during which important, significant changes take place",
+        "Parts of Speech": "verb"
+    },
+    "algebra": {
+        "Definition": "mathematics using letters and symbols in place of some numbers",
+        "Parts of Speech": "noun"
+    },
+    "amplitude": {
+        "Definition": "the breadth, width or largeness of something",
+        "Parts of Speech": "noun"
+    },
+    "biodiversity": {
+        "Definition": "the variation in an environment, the number of different types of life found there",
+        "Parts of Speech": "noun"
+    },
+    "chloride": {
+        "Definition": "a chemical compound that is a mixture of chlorine and something else",
+        "Parts of Speech": "noun"
+    },
+    "circa": {
+        "Definition": "an approximate time period",
+        "Parts of Speech": "noun"
+    },
+    "consonant": {
+        "Definition": "a speech sound; any letter in the alphabet that is not a vowel.",
+        "Parts of Speech": "adjective"
+    },
+    "cortex": {
+        "Definition": "the outer part of an organ or structure",
+        "Parts of Speech": "noun"
+    },
+    "inversion": {
+        "Definition": "a change in position of things so they become the opposite",
+        "Parts of Speech": "noun"
+    },
+    "lexical": {
+        "Definition": "about words",
+        "Parts of Speech": "adjective"
+    },
+    "multi-": {
+        "Definition": "a prefix meaning 'more than one'",
+        "Parts of Speech": "prefix"
+    },
+    "phonological": {
+        "Definition": "concerning sound",
+        "Parts of Speech": "adjective"
+    },
+    "postgraduate": {
+        "Definition": "graduate studying for a further degree",
+        "Parts of Speech": "noun"
+    },
+    "sneeze": {
+        "Definition": "to loudly blow air out of your nose or mouth in a sudden uncontrolled way",
+        "Parts of Speech": "verb"
+    },
+    "syntactic": {
+        "Definition": "grammatical",
+        "Parts of Speech": "adjective"
+    },
+    "syntax": {
+        "Definition": "the study of a system, such as the system of words in a sentence",
+        "Parts of Speech": "noun"
+    },
+    "theorem": {
+        "Definition": "a statement that can be proved",
+        "Parts of Speech": "noun"
+    },
+    "aerosol": {
+        "Definition": "a container that sprays liquid under pressure",
+        "Parts of Speech": "noun"
+    },
+    "axiom": {
+        "Definition": "a statement that is accepted as true",
+        "Parts of Speech": "noun"
+    },
+    "calculus": {
+        "Definition": "a type of mathematics used for calculating such things as the slopes of curves",
+        "Parts of Speech": "noun"
+    },
+    "capillary": {
+        "Definition": "very small blood vessels",
+        "Parts of Speech": "noun"
+    },
+    "comma": {
+        "Definition": "mark showing a pause or list in a sentence",
+        "Parts of Speech": "noun"
+    },
+    "congruent": {
+        "Definition": "having the same shape and size",
+        "Parts of Speech": "adjective"
+    },
+    "denominator": {
+        "Definition": "the bottom number in a fraction",
+        "Parts of Speech": "noun"
+    },
+    "equivalence": {
+        "Definition": "when something is equal to something else",
+        "Parts of Speech": "noun"
+    },
+    "exponential": {
+        "Definition": "a constant e raised to a power equal to a given expression: e.g. e3x is the exponential of 3x.",
+        "Parts of Speech": "adjective"
+    },
+    "helix": {
+        "Definition": "a 3D spiral shape",
+        "Parts of Speech": "noun"
+    },
+    "herbicide": {
+        "Definition": "a poison that kills weeds",
+        "Parts of Speech": "noun"
+    },
+    "semi-": {
+        "Definition": "a prefix meaning 'half'",
+        "Parts of Speech": "prefix"
+    },
+    "splice": {
+        "Definition": "act of connecting two pieces of rope or wire into one",
+        "Parts of Speech": "noun"
+    },
+    "connotation": {
+        "Definition": "an association; an implication",
+        "Parts of Speech": "noun"
+    },
+    "descriptor": {
+        "Definition": "a label; something that describes",
+        "Parts of Speech": "noun"
+    },
+    "oxidize": {
+        "Definition": "to convert (an element) into an oxide; combine with oxygen - to rust",
+        "Parts of Speech": "verb"
+    },
+    "parenthesis": {
+        "Definition": "one of two symbols ( and ), used in writing",
+        "Parts of Speech": "noun"
+    },
+    "semester": {
+        "Definition": "half a year in school or college",
+        "Parts of Speech": "noun"
+    },
+    "trans-": {
+        "Definition": "a prefix meaning 'across', 'through' or 'changing thoroughly'",
+        "Parts of Speech": "prefix"
+    },
+    "volition": {
+        "Definition": "the act of making a conscious choice",
+        "Parts of Speech": "noun"
+    },
+    "factorial": {
+        "Definition": "concerning factors or factorials",
+        "Parts of Speech": "adjective"
+    },
+    "solute": {
+        "Definition": "a substance that has dissolved in a solvent and become part of the liquid, so that they form a solution",
+        "Parts of Speech": "adjective"
+    },
+    "mid": {
+        "Definition": "at (or near) the middle point",
+        "Parts of Speech": "adjective"
+    },
+    "airplane": {
+        "Definition": "a machine that flies through the air",
+        "Parts of Speech": "noun"
+    },
+    "artwork": {
+        "Definition": "photographs or pictures in a printed publication",
+        "Parts of Speech": "noun"
+    },
+    "breakdown": {
+        "Definition": "when normal activity or behaviour stops",
+        "Parts of Speech": "noun"
+    },
+    "classroom": {
+        "Definition": "room in a school where lessons take place",
+        "Parts of Speech": "noun"
+    },
+    "feedback": {
+        "Definition": "a response to a message; information about a person's behavior",
+        "Parts of Speech": "noun"
+    },
+    "footnote": {
+        "Definition": "extra information at the bottom of a page",
+        "Parts of Speech": "noun"
+    },
+    "halfway": {
+        "Definition": "a middle point between two extremes",
+        "Parts of Speech": "adverb"
+    },
+    "handout": {
+        "Definition": "a piece of paper with information, often given out before a presentation",
+        "Parts of Speech": "noun"
+    },
+    "homework": {
+        "Definition": "work that a student is given to do at home",
+        "Parts of Speech": "noun"
+    },
+    "layout": {
+        "Definition": "plan or design of something, e.g. of book page",
+        "Parts of Speech": "noun"
+    },
+    "lifestyle": {
+        "Definition": "the type of life that you have",
+        "Parts of Speech": "noun"
+    },
+    "lifetime": {
+        "Definition": "the time between birth and death",
+        "Parts of Speech": "noun"
+    },
+    "pathway": {
+        "Definition": "a path or way that you can walk",
+        "Parts of Speech": "noun"
+    },
+    "rainfall": {
+        "Definition": "water falling from the sky",
+        "Parts of Speech": "noun"
+    },
+    "textbook": {
+        "Definition": "a book that is used to study",
+        "Parts of Speech": "noun"
+    },
+    "uplift": {
+        "Definition": "to make someone feel happier or more hopeful",
+        "Parts of Speech": "noun"
+    },
+    "wavelength": {
+        "Definition": "the size of a wave; a shared understanding",
+        "Parts of Speech": "noun"
+    },
+    "widespread": {
+        "Definition": "happening or existing in many places; affecting many people",
+        "Parts of Speech": "adjective"
+    },
+    "workshop": {
+        "Definition": "a brief intensive course for a small group; emphasizes problem solving",
+        "Parts of Speech": "noun"
+    },
+    "anti-": {
+        "Definition": "a prefix meaning 'against' or 'opposed'",
+        "Parts of Speech": "prefix"
+    },
+    "ex-": {
+        "Definition": "a prefix meaning \"out of,\" \"from,\" or \"not\"",
+        "Parts of Speech": "prefix"
+    },
+    "micro": {
+        "Definition": "a prefix meaning 'very small', such as microchip",
+        "Parts of Speech": "noun"
+    },
+    "neo": {
+        "Definition": "a prefix meaning 'recent' or 'new'",
+        "Parts of Speech": "noun"
+    },
+    "non-": {
+        "Definition": "a prefix meaning 'not'",
+        "Parts of Speech": "prefix"
+    },
+    "pi": {
+        "Definition": "the ratio of the circumference to the diameter of a circle; approximately equal to 3.14",
+        "Parts of Speech": "noun"
+    },
+    "pole": {
+        "Definition": "a long, narrow piece of metal or wood, that is used to hold or support something",
+        "Parts of Speech": "noun"
+    },
+    "pre-": {
+        "Definition": "a prefix meaning 'before'",
+        "Parts of Speech": "prefix"
+    },
+    "sub-": {
+        "Definition": "a prefix meaning 'under' or 'instead of'",
+        "Parts of Speech": "prefix"
+    },
+    "super": {
+        "Definition": "of the highest quality; great; marvelous",
+        "Parts of Speech": "adjective"
+    },
+    "headquarter": {
+        "Definition": "the main office of a company or organisation",
+        "Parts of Speech": "noun"
+    },
+    "identical": {
+        "Definition": "the same in every way",
+        "Parts of Speech": "adjective"
+    }
+}
